@@ -1,0 +1,25 @@
+{
+  "name": "boating",
+  "version": "1.0.0",
+  "description": "Course website to obtain the Canadian Pleasure Craft Operator Card",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgalle/boating.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelgalle/boating/issues"
+  },
+  "homepage": "https://github.com/michaelgalle/boating#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
