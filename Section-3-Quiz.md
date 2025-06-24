@@ -1,4 +1,4 @@
-Section Quiz
+# Section 3 Quiz
 1. When two power-driven vessels are crossing and one approaches from your starboard side, what should you do?
 - A) Maintain course and speed
 - B) Sound three short blasts
