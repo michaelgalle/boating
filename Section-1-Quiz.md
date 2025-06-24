@@ -1,4 +1,4 @@
-Section Quiz
+# Section Quiz
 Who must register their vessel with the Government of Canada?
 - a) All pleasure craft under 15 gross tons
 - b) All commercial vessels over 15 gross tons and pleasure craft over 15 tons
