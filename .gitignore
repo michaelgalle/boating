@@ -14,4 +14,3 @@
 # Ignore the .git directory
 node_modules/
 # Ignore node_modules directory
-
