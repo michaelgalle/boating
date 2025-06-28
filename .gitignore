@@ -1,8 +1,8 @@
-./resources/    
+./resources/
 # Ignore all files in the resources directory
-*.log       
+*.log
 # Ignore all log files
-*.tmp   
+*.tmp
 # Ignore all temporary files
 *.bak
 # Ignore all backup files
