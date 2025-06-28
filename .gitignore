@@ -1,4 +1,5 @@
-./resources/
+# Ignore all files in the resources directory
+resources/
 # Ignore all files in the resources directory
 *.log
 # Ignore all log files
