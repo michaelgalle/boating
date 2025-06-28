@@ -1,0 +1,12 @@
+./resources/    
+# Ignore all files in the resources directory
+*.log       
+# Ignore all log files
+*.tmp   
+# Ignore all temporary files
+*.bak
+# Ignore all backup files
+*.swp
+# Ignore all swap files
+*.DS_Store
+# Ignore macOS specific files
