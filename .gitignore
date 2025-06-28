@@ -10,3 +10,8 @@
 # Ignore all swap files
 *.DS_Store
 # Ignore macOS specific files
+.git/
+# Ignore the .git directory
+node_modules/
+# Ignore node_modules directory
+
