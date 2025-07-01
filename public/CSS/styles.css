@@ -80,15 +80,15 @@ ol, ul {
     margin-bottom: 1.2rem;
 }
 
-ol.quiz-list > li {
+.quiz-question {
     margin-bottom: 1.5rem;
-    background: #e3f2fd;
+    background: #ccd7de;
     border-radius: 0.4rem;
     padding: 1rem 1.2rem;
     box-shadow: 0 1px 4px rgba(25, 118, 210, 0.07);
 }
 
-ol.quiz-list strong {
+.quiz-question strong {
     display: inline-block;
     margin-top: 0.5rem;
     color: #388e3c;
