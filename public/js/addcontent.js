@@ -19,3 +19,5 @@ function includeHTML() {
     }); 
     return;
 }
+
+includeHTML(); // Call the function to include HTML content
