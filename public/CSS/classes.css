@@ -95,5 +95,12 @@
     border-left: 4px solid #ffffff;
 }
 
+/* Align images and text vertically */
+.center-vertically {
+    display: flex;
+    align-items: center;   /* vertical centering */
+    justify-content: center; /* optional: horizontal centering */
+}
+
 
 
