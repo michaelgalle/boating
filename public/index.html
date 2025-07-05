@@ -41,21 +41,37 @@
                     </a>
             </div>
             <nav class="menu-nav">
-                <ul class="vertical-menu">
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-1-Terminology">Terminology</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-2-Safety">Safety</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-3-Laws">Laws</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-4-Navigation">Navigation</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-5-Pre-Departure">Pre-Departure</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-6-Operation">Operation</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#Section-7-Emergencies">Emergencies</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#">Blank</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#">Blank</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#">Blank</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#">Blank</a></li>
-                    <li class="nav-item"><a class="menu-nav-link" href="#">Blank</a></li>
-                </ul>
-            </nav> 
+            <ul class="vertical-menu list-unstyled">
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-1-Terminology" data-submenu="submenu1">Terminology</a>
+                    <ul class="submenu" id="submenu1"></ul>
+                </li>
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-2-Safety" data-submenu="submenu2">Safety</a>
+                    <ul class="submenu" id="submenu2"></ul>
+                </li>
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-3-Laws" data-submenu="submenu3">Laws</a>
+                    <ul class="submenu" id="submenu3"></ul>
+                </li>
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-4-Navigation" data-submenu="submenu4">Navigation</a>
+                    <ul class="submenu" id="submenu4"></ul>
+                </li>
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-5-Pre-Departure" data-submenu="submenu5">Pre-Departure</a>
+                    <ul class="submenu" id="submenu5"></ul>
+                </li>
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-6-Operation" data-submenu="submenu6">Operation</a>
+                    <ul class="submenu" id="submenu6"></ul>
+                </li>
+                <li class="nav-item">
+                    <a class="menu-nav-link main-menu-link" href="#Section-7-Emergencies" data-submenu="submenu7">Emergencies</a>
+                    <ul class="submenu" id="submenu7"></ul>
+                </li>
+            </ul>
+            </nav>         
             <div class="menu-social">
                 <br><br>
                 <ul class="menu-social">
@@ -168,6 +184,7 @@
     <script src="js/addcontent.js"></script>      <!-- My custom JavaScript for adding content to page from separate HTML pages -->
     <script src="js/toggle.js"></script>          <!-- My custom JavaScript for toggle menu -->
     <script src="js/scrollspy.js"></script>       <!-- My custom JavaScript for Scrollspy on menu -->
+    <script src="js/menu-submenus.js"></script>   <!-- My custom JavaScript for submenus in left vertical menu -->
     <script src="js/quiz.js"></script>            <!-- My custom JavaScript for quiz functionality --> 
 
 </body>
