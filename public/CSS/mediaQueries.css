@@ -1,0 +1,77 @@
+/* Design changes for screens larger than Smartphones (Extra small) */
+
+@media (min-width: 576px) {
+    #home-avatar-and-text {
+        transform: translate(-50%, -50%);
+    }
+    #home-letter {
+        font-size: 23rem;
+    }
+    #home-avatar {
+        width: 130px;
+    }
+    #name {
+        font-size: x-large;
+    }
+    #occupation {
+        font-size: medium;
+    }
+}
+
+/* Medium screen tablet devices */
+@media (min-width: 768px) {
+    #home-letter {
+        font-size: 30rem;
+    }
+    #home-avatar {
+        width: 150px;
+    }
+    #name {
+        font-size: xx-large;
+    }
+    #occupation {
+        font-size: large;
+    }
+    #site-container {
+        padding: 0rem 5rem 0rem 2rem;
+    }
+}
+
+/* Large screen tablet devices */
+@media (min-width:992px) {}
+
+
+/* Extra Large screen desktop devices */
+@media (min-width:1200px) {
+    #scrollspy-container, #scrollspy-button, #mobile-logo {   /* Menu shows so remove the scrollspy button */ 
+        display: none;
+    }
+    #site-outer-container {
+        top: 100vh;                                           /* Start site content below the jumbotron */
+    }
+    #site-container {
+        margin-left: 300px;                                   /* Menu is showing so shift site content to right by 300px */
+    }
+    #home {
+        top: 40%;
+        left: calc(50% + 150px);                            /* Shift by 150px to take into account the menu */
+    }
+}
+
+@media (min-width:1700px) {
+    #home {
+        top: 30%;
+    }
+}
+
+@media (min-width:2000px) {
+    #home {
+        top: 30%;
+    }
+}
+
+@media (min-width:2800px) {
+    #home {
+        top: 20%;
+    }
+}
