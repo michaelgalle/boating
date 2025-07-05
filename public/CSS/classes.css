@@ -1,0 +1,89 @@
+/* Toggle / untoggle classes for menu - Use JavaScript to modify these */
+.toggled {
+    transition: 0.5s;
+    left: 0px;           /* Show menu */
+}
+
+.untoggled {
+    transition: 0.5s;
+    left: -300px;        /* Hide menu */
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: inline;
+}
+
+/* Toggle classes for scrollspy-button */
+.toggledIcon {
+    background-image: url("../images/hide.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.untoggledIcon {
+    background-image: url("../images/show.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Other classes */
+.videoOrImage {
+    position: static;
+    width: 100%;
+    z-index: 2;
+}
+
+.social {
+    display:inline;
+    padding: 0px 10px;
+    font-size: larger;
+}
+
+.social a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.social a:hover {
+    font-size: x-large;
+}
+
+.menu-social {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    padding: 0 0; 
+    text-align: center;
+}
+
+.menu-nav {
+    width: 100%;
+    margin: 0 0;
+    padding: 0 0 0 45px;
+}
+
+.menu-nav-link, .menu-nav-link:hover, .menu-nav-link:active {
+    color: #ffffff;
+    text-decoration: none;
+    padding-left: 5px;
+}
+
+.menu-nav-link:hover {
+    font-weight:700;
+}
+
+.nav-item {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    list-style: none;
+}
+
+.active {
+    border-left: 4px solid #ffffff;
+}
+
+
