@@ -13,7 +13,7 @@
     #name {
         font-size: x-large;
     }
-    #occupation {
+    #tagline {
         font-size: medium;
     }
 }
@@ -29,7 +29,7 @@
     #name {
         font-size: xx-large;
     }
-    #occupation {
+    #tagline {
         font-size: large;
     }
     #site-container {
@@ -43,7 +43,7 @@
 
 /* Extra Large screen desktop devices */
 @media (min-width:1200px) {
-    #scrollspy-container, #scrollspy-button, #mobile-logo {   /* Menu shows so remove the scrollspy button */ 
+    #scrollspy-container, #scrollspy-button {   /* Menu shows so remove the scrollspy button */ 
         display: none;
     }
     #site-outer-container {
@@ -55,6 +55,13 @@
     #home {
         top: 40%;
         left: calc(50% + 150px);                            /* Shift by 150px to take into account the menu */
+    }
+    #mobile-logo {
+        position: fixed;
+        display: inline;
+        top: 25px;
+        left: auto; /* Cancel any left property */
+        right: 30px; /* Position the mobile logo at the top right corner */
     }
 }
 

@@ -1,182 +1,282 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Title -->
     <title>Welcome to the boating safety course</title>
-    <link rel="icon" href="images/mgalle.ico">   <!-- Icon in tab to be CHANGED -->
-    
+    <link rel="icon" href="icons/Logo.ico" />
+    <!-- Icon in tab to be CHANGED -->
+
     <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
 
     <!-- Fontawesome fonts -->
-    <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css" />
+    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" />
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+      crossorigin="anonymous"
+    />
 
     <!-- Custom CSS TO BE EDITED -->
-    <link rel="stylesheet" href="css/elements.css">
-    <link rel="stylesheet" href="css/ids.css">
-    <link rel="stylesheet" href="css/classes.css">
-    <link rel="stylesheet" href="css/mediaQueries.css">
+    <link rel="stylesheet" href="css/elements.css" />
+    <link rel="stylesheet" href="css/ids.css" />
+    <link rel="stylesheet" href="css/classes.css" />
+    <link rel="stylesheet" href="css/mediaQueries.css" />
 
     <!-- Custom CSS for Originbal Boating site - NEED TO UPDATE -->
-    <link rel="stylesheet" href="css/styles.css">
-
-</head>
-<body>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
     <!-- Left Vertical Menu -->
     <header>
-        <div id="menu" class=""> 
-            <div id="menu-logo-container">
-                    <a href="#" id="logo">
-                        <span id="logo-letter">SB</span>
-                        <span>Safe Boating</span>
-                    </a>
-            </div>
-            <nav class="menu-nav">
-            <ul class="vertical-menu list-unstyled">
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-1-Terminology" data-submenu="submenu1">Terminology</a>
-                    <ul class="submenu" id="submenu1"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-2-Safety" data-submenu="submenu2">Safety</a>
-                    <ul class="submenu" id="submenu2"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-3-Laws" data-submenu="submenu3">Laws</a>
-                    <ul class="submenu" id="submenu3"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-4-Navigation" data-submenu="submenu4">Navigation</a>
-                    <ul class="submenu" id="submenu4"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-5-Pre-Departure" data-submenu="submenu5">Pre-Departure</a>
-                    <ul class="submenu" id="submenu5"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-6-Operation" data-submenu="submenu6">Operation</a>
-                    <ul class="submenu" id="submenu6"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Section-7-Emergencies" data-submenu="submenu7">Emergencies</a>
-                    <ul class="submenu" id="submenu7"></ul>
-                </li>
-                <li class="nav-item">
-                    <a class="menu-nav-link main-menu-link" href="#Exam" data-submenu="submenu8">Exam</a>
-                    <ul class="submenu" id="submenu8"></ul>
-                </li>
-            </ul>
-            </nav>         
-            <div class="menu-social">
-                <br><br>
-                <ul class="menu-social">
-                    <li class="social"><a href="https://google.com"><i class="fa-brands fa-github"></i></a></li>
-                    <li class="social"><a href="https://google.com"><i class="fa-brands fa-linkedin"></i></a></li>
-                    <li class="social"><a href="https://google.com"><i class="fa-brands fa-youtube"></i></a></li>
-                    <!-- TO CHANGE MAILING ADDRESS BELOW -->
-                    <li class="social"><a href="mailto:boating@gallenetwork.com"><i class="fa-solid fa-envelope"></i></a></li>
-                </ul>
-            </div>
-
+      <div id="menu" class="">
+        <div id="menu-logo-container">
+          <a href="#" id="logo">
+            <span id="logo-letter"
+              ><img src="icons/Logo-light.svg" width="170" height="170"
+            /></span>
+            <span>Safe Boating</span>
+          </a>
         </div>
+        <nav class="menu-nav">
+          <ul class="vertical-menu list-unstyled">
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-1-Terminology"
+                data-submenu="submenu1"
+                >Terminology</a
+              >
+              <ul class="submenu" id="submenu1"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-2-Safety"
+                data-submenu="submenu2"
+                >Safety</a
+              >
+              <ul class="submenu" id="submenu2"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-3-Laws"
+                data-submenu="submenu3"
+                >Laws</a
+              >
+              <ul class="submenu" id="submenu3"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-4-Navigation"
+                data-submenu="submenu4"
+                >Navigation</a
+              >
+              <ul class="submenu" id="submenu4"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-5-Pre-Departure"
+                data-submenu="submenu5"
+                >Pre-Departure</a
+              >
+              <ul class="submenu" id="submenu5"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-6-Operation"
+                data-submenu="submenu6"
+                >Operation</a
+              >
+              <ul class="submenu" id="submenu6"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Section-7-Emergencies"
+                data-submenu="submenu7"
+                >Emergencies</a
+              >
+              <ul class="submenu" id="submenu7"></ul>
+            </li>
+            <li class="nav-item">
+              <a
+                class="menu-nav-link main-menu-link"
+                href="#Exam"
+                data-submenu="submenu8"
+                >Exam</a
+              >
+              <ul class="submenu" id="submenu8"></ul>
+            </li>
+          </ul>
+        </nav>
+        <div class="menu-social">
+          <br /><br />
+          <ul class="menu-social">
+            <li class="social">
+              <a href="https://google.com"
+                ><i class="fa-brands fa-github"></i
+              ></a>
+            </li>
+            <li class="social">
+              <a href="https://google.com"
+                ><i class="fa-brands fa-linkedin"></i
+              ></a>
+            </li>
+            <li class="social">
+              <a href="https://google.com"
+                ><i class="fa-brands fa-youtube"></i
+              ></a>
+            </li>
+            <!-- TO CHANGE MAILING ADDRESS BELOW -->
+            <li class="social">
+              <a href="mailto:boating@gallenetwork.com"
+                ><i class="fa-solid fa-envelope"></i
+              ></a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </header>
 
     <!-- Scrollspy button -->
     <div id="scrollspy-container">
-        <div id="scrollspy-button" class=""></div>
+      <div id="scrollspy-button" class=""></div>
     </div>
 
     <div id="mobile-logo" class="">
-        <span>Safe Boating Course</span>
+      <span>Register / Login</span>
     </div>
 
     <!-- Jumbotron Video or Image -->
     <div id="home-container">
-        <img class="videoOrImage" src="images/lg/vessels_docked_at_island.jpg" alt="background">
-        <div id="home">
-            <span id="home-letter">SB</span>
-            <div id="home-avatar-and-text">
-                <img id="home-avatar" src="images/sm/cruise_ship_with_palm_trees.jpg" alt="" width="200">
-                <div id="home-text">
-                    <div id="name">Safe Boating</div>
-                    <div id="occupation">Free Safe Boating Course</div>
-                </div>
-            </div>
+      <img
+        class="videoOrImage"
+        src="images/lg/vessels_docked_at_island.jpg"
+        alt="background"
+      />
+      <div id="home">
+        <span id="home-letter"
+          ><img src="icons/Logo.svg" width="500" height="500"
+        /></span>
+        <div id="home-avatar-and-text">
+          <!--<img id="home-avatar" src="images/sm/cruise_ship_with_palm_trees.jpg" alt="" width="200"> -->
+          <!--<img id="home-avatar" src="images/sm/boating_safety.jpg" alt="A boat with safety equipment on board" width="200">-->
+          <!-- Text on top of image -->
+          <div id="home-text">
+            <div id="name">Safe Boating</div>
+            <div id="tagline">Free Safe Boating Course</div>
+          </div>
         </div>
+      </div>
     </div>
 
     <!-- Rest of Website -->
-    <div id="site-outer-container">                  <!-- Contents of outer container have relative positioning -->
-        <div id="site-container">                    <!-- Contents of inner-container have a margin-left that depends on screen size-->
+    <div id="site-outer-container">
+      <!-- Contents of outer container have relative positioning -->
+      <div id="site-container">
+        <!-- Contents of inner-container have a margin-left that depends on screen size-->
 
-            <!-- Content -->
-            <div class="container">
-                <div>
-                    <!-- Header -->
-                    <h1>Welcome to the Boating Safety Course</h1>
-                    <figure class="text-center my-4">
-                    <img src="images/sm/in_a_canoe.jpg" class="img-fluid rounded" alt="A boat with safety equipment on board">
-                    <figcaption class="mt-2 text-muted">Figure: Boating safety.</figcaption>
-                    </figure>
-                    <p>This course is designed to help you understand the essential aspects of boating safety, including terminology, safety regulations, navigation rules, and emergency procedures. Click a section on the left to navigate.</p>
-
-                </div>
-
-                <div>
-                    <section id="Section-1-Terminology">
-                        <div w3-include-html="html/Section-1-Terminology.html"></div>
-                    </section>
-                    <section id="Section-2-Safety">
-                        <div w3-include-html="html/Section-2-Safety.html"></div>
-                    </section>
-                    <section id="Section-3-Laws">
-                        <div w3-include-html="html/Section-3-Laws.html"></div>
-                    </section>
-                    <section id="Section-4-Navigation">
-                        <div w3-include-html="html/Section-4-Navigation.html"></div>
-                    </section>
-                    <section id="Section-5-Pre-Departure">
-                        <div w3-include-html="html/Section-5-Pre-Departure.html"></div>
-                    </section>
-                    <section id="Section-6-Operation">
-                        <div w3-include-html="html/Section-6-Operation.html"></div>
-                    </section>
-                    <section id="Section-7-Emergencies">
-                        <div w3-include-html="html/Section-7-Emergencies.html"></div>
-                    </section>
-                    <!-- Exam Section -->
-                    <section id="Exam">
-                        <div w3-include-html="html/Exam.html"></div>
-                    </section>
-                </div>
+        <!-- Content -->
+        <div class="container">
+          <div>
+            <!-- Header -->
+            <br />
+            <h1>Boating Safety Course</h1>
+            <div class="row">
+              <div class="sol-sm-12 col-md-6">
+                <p>
+                  This course is designed to help you understand the essential
+                  aspects of boating safety, including terminology, safety
+                  regulations, navigation rules, and emergency procedures. Click
+                  a section on the left to navigate.
+                </p>
+              </div>
+              <div class="sol-sm-12 col-md-6">
+                <figure class="text-center my-4">
+                  <img
+                    src="images/sm/in_a_canoe.jpg"
+                    class="img-fluid rounded"
+                    alt="A boat with safety equipment on board"
+                  />
+                  <figcaption class="mt-2 text-muted">
+                    Figure: Boating safety.
+                  </figcaption>
+                </figure>
+              </div>
             </div>
+          </div>
 
-            <!-- Footer -->
-            <div class="foot">
-                <div w3-include-html="html/footer.html"></div>
-            </div>
+          <div>
+            <section id="Section-1-Terminology">
+              <div w3-include-html="html/Section-1-Terminology.html"></div>
+            </section>
+            <section id="Section-2-Safety">
+              <div w3-include-html="html/Section-2-Safety.html"></div>
+            </section>
+            <section id="Section-3-Laws">
+              <div w3-include-html="html/Section-3-Laws.html"></div>
+            </section>
+            <section id="Section-4-Navigation">
+              <div w3-include-html="html/Section-4-Navigation.html"></div>
+            </section>
+            <section id="Section-5-Pre-Departure">
+              <div w3-include-html="html/Section-5-Pre-Departure.html"></div>
+            </section>
+            <section id="Section-6-Operation">
+              <div w3-include-html="html/Section-6-Operation.html"></div>
+            </section>
+            <section id="Section-7-Emergencies">
+              <div w3-include-html="html/Section-7-Emergencies.html"></div>
+            </section>
+            <!-- Exam Section -->
+            <section id="Exam">
+              <div w3-include-html="html/Exam.html"></div>
+            </section>
+          </div>
         </div>
+
+        <!-- Footer -->
+        <div class="foot">
+          <div w3-include-html="html/footer.html"></div>
+        </div>
+      </div>
     </div>
 
     <!-- Scripts -->
     <!-- External Scripts -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
-    
-    <!-- Custom script -->
-    <script src="js/addcontent.js"></script>      <!-- My custom JavaScript for adding content to page from separate HTML pages -->
-    <script src="js/toggle.js"></script>          <!-- My custom JavaScript for toggle menu -->
-    <script src="js/scrollspy.js"></script>       <!-- My custom JavaScript for Scrollspy on menu -->
-    <script src="js/menu-submenus.js"></script>   <!-- My custom JavaScript for submenus in left vertical menu -->
-    <script src="js/quiz.js"></script>            <!-- My custom JavaScript for quiz functionality --> 
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+      crossorigin="anonymous"
+    ></script>
 
-</body>
+    <!-- Custom script -->
+    <script src="js/addcontent.js"></script>
+    <!-- My custom JavaScript for adding content to page from separate HTML pages -->
+    <script src="js/toggle.js"></script>
+    <!-- My custom JavaScript for toggle menu -->
+    <script src="js/scrollspy.js"></script>
+    <!-- My custom JavaScript for Scrollspy on menu -->
+    <script src="js/menu-submenus.js"></script>
+    <!-- My custom JavaScript for submenus in left vertical menu -->
+    <script src="js/quiz.js"></script>
+    <!-- My custom JavaScript for quiz functionality -->
+  </body>
 </html>

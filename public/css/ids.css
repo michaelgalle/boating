@@ -43,7 +43,7 @@
     right: 0;
     font-size: 7rem;
     text-align: center;
-    opacity: 0.15;
+    opacity: 0.25;
     font-family: "Montserrat", Helvetica, sans-serif;
 }
 
@@ -129,15 +129,17 @@
     width: 100%;
     font-weight: 500;
     font-size: large;
+    z-index: 11;
 }
 
-#occupation {
+#tagline {
     position: static;
     font-family: "Montserrat", Helvetica, sans-serif;
     color: #ffffff;
     text-align: center;
     font-weight: 500;
     font-size: small;
+    z-index: 11;
 }
 
 #site-outer-container {
