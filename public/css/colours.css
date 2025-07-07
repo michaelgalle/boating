@@ -1,0 +1,54 @@
+/* CSS HEX and HSL */
+:root {
+/* Palette 1 */
+    --electric-blue: #56eef4ff;
+    --persian-orange: #de9151ff;
+    --cerulean: #3c7a89ff;
+    --russian-violet: #0b032dff;
+    --celeste: #b3f2ddff;
+
+    --electric-blue-hsl: hsla(182, 88%, 65%, 1);
+    --persian-orange-hsl: hsla(27, 68%, 59%, 1);
+    --cerulean-hsl: hsla(192, 39%, 39%, 1);
+    --russian-violet-hsl: hsla(251, 88%, 9%, 1);
+    --celeste-hsl: hsla(160, 71%, 83%, 1);
+
+/* Palette 2 */
+    --orange-wheel: #ee8434ff;
+    --aqua: #3dfaffff;
+    --celestial-blue: #009ffdff;
+    --royal-blue-traditional: #2a2a72ff;
+    --pumpkin: #ff6700ff;
+
+    --orange-wheel: hsla(26, 85%, 57%, 1);
+    --aqua: hsla(182, 100%, 62%, 1);
+    --celestial-blue: hsla(202, 100%, 50%, 1);
+    --royal-blue-traditional: hsla(240, 46%, 31%, 1);
+    --pumpkin: hsla(24, 100%, 50%, 1);
+
+/* Palette 3 */
+    --true-blue: #4464adff;
+    --light-orange: #f2d0a9ff;
+    --almond: #f1e3d3ff;
+    --cambridge-blue: #99c1b9ff;
+    --rust: #ba3f1dff;
+
+    --true-blue: hsla(222, 44%, 47%, 1);
+    --light-orange: hsla(32, 74%, 81%, 1);
+    --almond: hsla(32, 52%, 89%, 1);
+    --cambridge-blue: hsla(168, 24%, 68%, 1);
+    --rust: hsla(13, 73%, 42%, 1);
+     
+/* Palette 4 */
+    --tawny: #cc5803ff;
+    --smoky-black: #141204ff;
+    --vivid-sky-blue: #42cafdff;
+    --medium-slate-blue: #6874e8ff;
+    --jasmine: #f4d58dff;
+
+    --tawny: hsla(25, 97%, 41%, 1);
+    --smoky-black: hsla(53, 67%, 5%, 1);
+    --vivid-sky-blue: hsla(196, 98%, 63%, 1);
+    --medium-slate-blue: hsla(234, 74%, 66%, 1);
+    --jasmine: hsla(42, 82%, 75%, 1);
+}
