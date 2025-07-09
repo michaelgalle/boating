@@ -3,14 +3,20 @@ let currentQuestionIndex = 0;
 let score = 0;
 let userAnswers = [];
 let questions = [];
+//let quizData = {};
 
 // Initialize quiz
-function initializeQuiz() {
-  questions = quizData.questions;
+function initializeQuiz(quizData) {
+  //console.log("Quiz data loaded:", quizData);   // Testing
+  // From quizData object select a random quiz number [1-5] from the quiz array
+  let quizNumber = Math.floor(Math.random() * quizData["quiz"].length);
+  //console.log("Selected quiz number:", quizNumber + 1); // Testing  
+
+  questions = quizData["quiz"][1].questions;
+  //console.log("Loaded questions:", questions);      // testing
   userAnswers = new Array(questions.length).fill(null);
 
-  document.getElementById("total-questions").textContent =
-    questions.length;
+  document.getElementById("total-questions").textContent = questions.length;
   document.getElementById("loading").classList.add("hidden");
   document.getElementById("quiz-content").classList.remove("hidden");
 
@@ -210,31 +216,28 @@ function restartQuiz() {
 
 // Load quiz from JSON file (uncomment this function to use external JSON)
 
-  async function loadQuizFromJSON(filename) {
-      try {
-          const response = await fetch(filename);
-          const data = await response.json();
-          return data;
-      } catch (error) {
-          console.error('Error loading quiz data:', error);
-          return null;
-      }
-  }
-  
+async function loadQuizFromJSON(filename) {
+    try {
+        const response = await fetch(filename);
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error loading quiz data:', error);
+        return null;
+    }
+}
+
 
 // Start the quiz when page loads
 window.onload = function () {
-  // To load from external JSON file, uncomment this:
-  
-      loadQuizFromJSON('../private/js/quiz-data.json').then(data => {
+  // Load data from external JSON file (all quizzes being loaded for now)
+      loadQuizFromJSON('/api/quiz').then(data => {
           if (data) {
               quizData = data;
-              initializeQuiz();
+              //console.log("Quiz data loaded:", quizData);  // Testing
+              initializeQuiz(quizData); // Call initializeQuiz after loading data - give time to load
           } else {
               document.getElementById('loading').textContent = 'Error loading quiz data';
           }
       });
-      
-  // For demo purposes, using embedded data
-  setTimeout(initializeQuiz, 1000); // Simulate loading time
 };

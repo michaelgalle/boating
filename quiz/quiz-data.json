@@ -1,0 +1,2784 @@
+{
+    "quiz": [
+        {
+            "title": "Boating Safety Quiz #1",
+            "description": "Test your knowledge of boating safety regulations and best practices",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What percentage of boating drowning victims in Canada were wearing a Personal Flotation Device (PFD)?",
+                    "options": [
+                        "13%",
+                        "25%",
+                        "50%",
+                        "86%"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 2,
+                    "question": "Which of the following is the correct emergency radio call for an urgent but non-life-threatening situation?",
+                    "options": [
+                        "MAYDAY",
+                        "PAN-PAN",
+                        "SOS",
+                        "SECURITY"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 3,
+                    "question": "What is the main cause of fatalities related to boating?",
+                    "options": [
+                        "Collisions with other boats",
+                        "Drowning after falling overboard",
+                        "Fire on board",
+                        "Capsizing"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 4,
+                    "question": "What type of signal is a parachute flare?",
+                    "options": [
+                        "Sound signal",
+                        "Pyrotechnic distress signal",
+                        "Radio distress call",
+                        "Visual hand signal"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 5,
+                    "question": "If a person falls overboard, you should approach them:",
+                    "options": [
+                        "Upwind",
+                        "Downwind or into the current",
+                        "From behind",
+                        "From the side opposite the wind"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 6,
+                    "question": "Which channel on a VHF radio is designated as the international distress frequency?",
+                    "options": [
+                        "70",
+                        "16",
+                        "21B",
+                        "13"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 7,
+                    "question": "How often should you inspect and maintain your boat’s essential systems?",
+                    "options": [
+                        "Annually only",
+                        "Before every trip and monthly",
+                        "Every 6 months",
+                        "Only when you notice a problem"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 8,
+                    "question": "What is the typical validity period of approved pyrotechnic flares?",
+                    "options": [
+                        "2 years",
+                        "3 years",
+                        "4 years",
+                        "5 years"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 9,
+                    "question": "When cold water is below approximately what temperature does cold-water shock occur?",
+                    "options": [
+                        "10°C",
+                        "15°C",
+                        "20°C",
+                        "25°C"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 10,
+                    "question": "What is the first step to take when a fire breaks out on board?",
+                    "options": [
+                        "Throw water on the fire",
+                        "Put on a PFD and warn others",
+                        "Abandon the boat immediately",
+                        "Call 911"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 11,
+                    "question": "What is the most important reason to wear a PFD on a boat?",
+                    "options": [
+                        "It improves visibility",
+                        "It reduces the risk of drowning",
+                        "It keeps you warm",
+                        "It is required by law"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 12,
+                    "question": "Which hand signal indicates distress?",
+                    "options": [
+                        "One arm raised and lowered repeatedly",
+                        "Clapping hands above head",
+                        "Waving both hands side to side",
+                        "Crossing arms in front of chest"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 13,
+                    "question": "What percentage of boating fatalities are related to alcohol use?",
+                    "options": [
+                        "15%",
+                        "40%",
+                        "60%",
+                        "80%"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 14,
+                    "question": "Which of the following is a recognized sound distress signal?",
+                    "options": [
+                        "One long blast every 10 seconds",
+                        "Continuous blasts at 1-minute intervals",
+                        "Three short blasts followed by one long blast",
+                        "Two short blasts every 2 minutes"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 15,
+                    "question": "What is the recommended procedure if your boat is swamped but not capsized?",
+                    "options": [
+                        "Swim to shore immediately",
+                        "Stay on board and try to bail water out",
+                        "Jump off and cling to floating debris",
+                        "Abandon ship and wait for rescue"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 16,
+                    "question": "Which of these devices can be used to send an automated distress alert via satellite?",
+                    "options": [
+                        "EPIRB",
+                        "DSC VHF Radio",
+                        "Handheld flare",
+                        "Sound horn"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 17,
+                    "question": "Which is NOT a valid pyrotechnic distress signal?",
+                    "options": [
+                        "Multi-star rocket",
+                        "Red hand flare",
+                        "Green strobe flare",
+                        "Orange smoke flare"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 18,
+                    "question": "What is the function of an MMSI number?",
+                    "options": [
+                        "To identify the boat’s hull number",
+                        "To identify the owner of the boat",
+                        "To uniquely identify a radio-equipped vessel for DSC calls",
+                        "To provide GPS coordinates in an emergency"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 19,
+                    "question": "What should you do if your boat starts to flood?",
+                    "options": [
+                        "Immediately abandon the vessel",
+                        "Attempt to locate and plug the leak",
+                        "Turn off the engine and wait for rescue",
+                        "Swim to shore"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 20,
+                    "question": "How far from shore do most boating drowning deaths occur?",
+                    "options": [
+                        "Within 2 meters",
+                        "Within 20 meters",
+                        "Within 100 meters",
+                        "More than 1 kilometer"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 21,
+                    "question": "What is the primary hazard of cold-water immersion?",
+                    "options": [
+                        "Hypothermia",
+                        "Dehydration",
+                        "Sunburn",
+                        "Heat exhaustion"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 22,
+                    "question": "What is the recommended approach to a person overboard?",
+                    "options": [
+                        "From downwind or into the current to maintain control",
+                        "Upwind for easier access",
+                        "From any direction quickly",
+                        "From behind only"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 23,
+                    "question": "Which of the following is a valid distress signal?",
+                    "options": [
+                        "Shaking a red flag vigorously",
+                        "Waving a white towel",
+                        "Standing with arms raised and lowered repeatedly",
+                        "Using a flashlight to signal Morse code"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 24,
+                    "question": "What is the common cause of most boating accidents?",
+                    "options": [
+                        "Mechanical failure",
+                        "Operator inattention or error",
+                        "Weather conditions",
+                        "Animal interference"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 25,
+                    "question": "What should you do before starting your boat engine?",
+                    "options": [
+                        "Check fuel levels",
+                        "Make sure everyone is seated and wearing PFDs",
+                        "Check weather and navigation instruments",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 26,
+                    "question": "What is a typical cause of capsizing?",
+                    "options": [
+                        "Overloading the boat",
+                        "Swimming nearby",
+                        "Low fuel",
+                        "Strong winds only"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 27,
+                    "question": "What is the proper way to store pyrotechnic distress signals?",
+                    "options": [
+                        "In a waterproof container away from heat",
+                        "Open and accessible anywhere on the boat",
+                        "In a locked glove box",
+                        "In the engine compartment"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 28,
+                    "question": "What is the purpose of channel 70 on VHF radios?",
+                    "options": [
+                        "Emergency distress channel",
+                        "Digital Selective Calling (DSC)",
+                        "General communications",
+                        "Weather updates"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 29,
+                    "question": "How should you respond if you experience heat exhaustion on a boat?",
+                    "options": [
+                        "Drink water and rest in shade",
+                        "Continue working to stay warm",
+                        "Drink coffee and keep moving",
+                        "Ignore symptoms"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 30,
+                    "question": "What kind of weather conditions are most dangerous for small boats?",
+                    "options": [
+                        "Calm and clear",
+                        "High winds and rough waves",
+                        "Light drizzle",
+                        "Fog only"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 31,
+                    "question": "Which of these actions is recommended to prevent hypothermia?",
+                    "options": [
+                        "Remove wet clothing immediately",
+                        "Drink alcohol to warm up",
+                        "Swim vigorously to generate heat",
+                        "Wear a PFD and get out of the water ASAP"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 32,
+                    "question": "What information should you include when calling MAYDAY?",
+                    "options": [
+                        "Your vessel’s name and position",
+                        "Nature of distress",
+                        "Number of people on board",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 33,
+                    "question": "What should you do if you hear a MAYDAY call on the radio?",
+                    "options": [
+                        "Change channel",
+                        "Listen carefully and prepare to assist",
+                        "Ignore unless requested",
+                        "Turn off your radio"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 34,
+                    "question": "What does it mean if you see a continuous sounding of the fog horn?",
+                    "options": [
+                        "You are near a navigation hazard",
+                        "It is a distress signal",
+                        "The boat is under power",
+                        "The boat is at anchor"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 35,
+                    "question": "How long should you wear a PFD when operating a boat?",
+                    "options": [
+                        "Only when the boat is moving",
+                        "Anytime on the water",
+                        "Only in bad weather",
+                        "Only at night"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 36,
+                    "question": "What should you do if your boat capsizes?",
+                    "options": [
+                        "Swim away immediately",
+                        "Climb onto the hull and stay together with others",
+                        "Try to right the boat by yourself",
+                        "Remove your PFD"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 37,
+                    "question": "What is the minimum number of PFDs required on a pleasure craft?",
+                    "options": [
+                        "One per passenger and operator",
+                        "Half the number of passengers",
+                        "One per two passengers",
+                        "Two total, regardless of passengers"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 38,
+                    "question": "How can alcohol affect your boating ability?",
+                    "options": [
+                        "Improves coordination",
+                        "Impairs judgment and reaction time",
+                        "Has no effect on boating",
+                        "Increases alertness"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 39,
+                    "question": "What is the recommended first aid response for someone showing signs of hypothermia?",
+                    "options": [
+                        "Move to a warm place and remove wet clothing",
+                        "Force them to walk around",
+                        "Give them cold water to drink",
+                        "Apply ice packs to the body"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 40,
+                    "question": "Which of these is NOT a cause of vessel malfunction?",
+                    "options": [
+                        "Fuel contamination",
+                        "Electrical failure",
+                        "Mechanical wear and tear",
+                        "Wearing a PFD"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 41,
+                    "question": "What is the minimum fire extinguisher rating required on most pleasure boats?",
+                    "options": [
+                        "Type A",
+                        "Type B",
+                        "Type ABC",
+                        "Type D"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 42,
+                    "question": "What is the effect of cold water on a person immersed in it?",
+                    "options": [
+                        "Causes heat exhaustion",
+                        "Causes cold shock and rapid loss of motor control",
+                        "Improves circulation",
+                        "Has no effect"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 43,
+                    "question": "How do you activate an EPIRB?",
+                    "options": [
+                        "Pull a tab or press a button",
+                        "Shout for help",
+                        "Turn on the boat engine",
+                        "Signal with a flare"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 44,
+                    "question": "What should you do if your vessel collides with another boat?",
+                    "options": [
+                        "Leave immediately",
+                        "Stop and assist if safe to do so",
+                        "Continue on your way",
+                        "Hide from authorities"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 45,
+                    "question": "How many short blasts on a horn or whistle indicate a warning signal?",
+                    "options": [
+                        "One",
+                        "Two",
+                        "Three",
+                        "Five"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 46,
+                    "question": "What is the purpose of a kill switch on a boat?",
+                    "options": [
+                        "To shut off the engine in emergencies",
+                        "To signal distress",
+                        "To activate the horn",
+                        "To turn on navigation lights"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 47,
+                    "question": "What is the proper action if you become stranded in cold water?",
+                    "options": [
+                        "Swim to shore immediately",
+                        "Use the HELP position (Heat Escape Lessening Posture)",
+                        "Remove your PFD",
+                        "Try to swim to the nearest boat"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 48,
+                    "question": "When should you file a float plan?",
+                    "options": [
+                        "Only when going far offshore",
+                        "Every time you go boating",
+                        "Only for overnight trips",
+                        "Never"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 49,
+                    "question": "What should you do if your boat starts to sink?",
+                    "options": [
+                        "Try to stay with the boat",
+                        "Swim to shore immediately",
+                        "Abandon ship without signaling",
+                        "Jump off and float away"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 50,
+                    "question": "How should you signal your location if lost at sea during the day?",
+                    "options": [
+                        "Use a whistle or horn",
+                        "Wave bright-colored clothing or flags",
+                        "Light a flare",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                }
+            ]
+        },
+        {
+            "title": "Boating Safety Quiz #2",
+            "description": "Test your knowledge of boating safety regulations and best practices",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What is the main purpose of a PFD?",
+                    "options": [
+                        "To keep you warm",
+                        "To keep you afloat and reduce drowning risk",
+                        "To improve visibility only",
+                        "To hold equipment"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 2,
+                    "question": "What should you do if a person falls overboard?",
+                    "options": [
+                        "Turn off the engine and throw a floatation device",
+                        "Immediately jump in after them",
+                        "Continue on your course",
+                        "Signal with a horn"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 3,
+                    "question": "What does a continuous sounding of a fog horn generally indicate?",
+                    "options": [
+                        "Vessel under power",
+                        "Vessel at anchor",
+                        "Navigation hazard nearby",
+                        "Distress"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 4,
+                    "question": "Which signal indicates an emergency requiring immediate assistance?",
+                    "options": [
+                        "PAN-PAN",
+                        "MAYDAY",
+                        "SECURITY",
+                        "ALL CLEAR"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 5,
+                    "question": "What is the danger of cold-water shock?",
+                    "options": [
+                        "It can cause heart failure and rapid drowning",
+                        "It makes you warm quickly",
+                        "It causes dehydration",
+                        "It improves swimming ability"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 6,
+                    "question": "What VHF channel is used for distress, safety, and calling?",
+                    "options": [
+                        "6",
+                        "12",
+                        "16",
+                        "70"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 7,
+                    "question": "Which of the following is NOT an acceptable distress signal?",
+                    "options": [
+                        "Red hand flare",
+                        "Orange smoke flare",
+                        "White flashing light",
+                        "Green flare"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 8,
+                    "question": "When approaching a person in the water, you should approach:",
+                    "options": [
+                        "Downwind or into the current",
+                        "Upwind",
+                        "From the front at high speed",
+                        "From behind"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 9,
+                    "question": "What is the maximum recommended alcohol blood level while operating a vessel?",
+                    "options": [
+                        "0.08%",
+                        "0.10%",
+                        "0.00% (no alcohol)",
+                        "0.05%"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 10,
+                    "question": "Which of these is a key element of a float plan?",
+                    "options": [
+                        "Destination and route",
+                        "Boat description",
+                        "Emergency contacts",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 11,
+                    "question": "What is the recommended position to conserve body heat in cold water immersion?",
+                    "options": [
+                        "Floating on your back",
+                        "HELP (Heat Escape Lessening Posture)",
+                        "Swimming vigorously",
+                        "Standing upright in water"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 12,
+                    "question": "How often should you check the weather before boating?",
+                    "options": [
+                        "Once per year",
+                        "Only before long trips",
+                        "Before each trip and periodically during",
+                        "Not necessary"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 13,
+                    "question": "Which of these could cause your boat to capsize?",
+                    "options": [
+                        "Uneven loading",
+                        "Strong wind gusts",
+                        "High waves",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 14,
+                    "question": "What is the first step when you notice a fire on your boat?",
+                    "options": [
+                        "Use a fire extinguisher if safe to do so",
+                        "Jump overboard",
+                        "Turn off all electrical equipment",
+                        "Sound the horn repeatedly"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 15,
+                    "question": "What is a digital selective calling (DSC) feature on a VHF radio used for?",
+                    "options": [
+                        "Making general calls",
+                        "Sending automated distress signals",
+                        "Checking weather",
+                        "Changing channels"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 16,
+                    "question": "How should pyrotechnic distress signals be stored?",
+                    "options": [
+                        "In a dry, accessible place away from heat",
+                        "Anywhere on the boat",
+                        "Under the seat",
+                        "Locked in a box"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 17,
+                    "question": "What is the approximate period of validity for flares?",
+                    "options": [
+                        "1 year",
+                        "3 to 5 years",
+                        "10 years",
+                        "No expiration"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 18,
+                    "question": "What is the function of an EPIRB?",
+                    "options": [
+                        "Makes sound signals",
+                        "Transmits an emergency location signal to satellites",
+                        "Provides navigation information",
+                        "Acts as a flotation device"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 19,
+                    "question": "If your boat begins to flood, what should you do?",
+                    "options": [
+                        "Plug or patch the leak if possible and start bailing",
+                        "Immediately abandon ship",
+                        "Turn off the engine and wait",
+                        "Swim to shore"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 20,
+                    "question": "What is the effect of alcohol consumption on boating ability?",
+                    "options": [
+                        "Improves coordination",
+                        "No effect",
+                        "Impairs judgment and reaction time",
+                        "Increases alertness"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 21,
+                    "question": "Which of these signals means “all is well” or “no distress”?",
+                    "options": [
+                        "White flag waved slowly",
+                        "Green flare",
+                        "Orange smoke",
+                        "Red flare"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 22,
+                    "question": "What is the main cause of fatalities in boating accidents?",
+                    "options": [
+                        "Fires on board",
+                        "Drowning due to falling overboard",
+                        "Collisions with large ships",
+                        "Capsizing only"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 23,
+                    "question": "What is the best way to prevent hypothermia while boating?",
+                    "options": [
+                        "Drink hot beverages",
+                        "Wear a PFD and stay dry and warm",
+                        "Swim in cold water to acclimate",
+                        "Exercise vigorously"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 24,
+                    "question": "Which of the following is NOT recommended when calling MAYDAY?",
+                    "options": [
+                        "State your vessel name and position",
+                        "Describe the nature of distress",
+                        "Stay silent after calling once",
+                        "State number of people on board"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 25,
+                    "question": "What is the correct sequence to use a fire extinguisher?",
+                    "options": [
+                        "Pull pin, aim, squeeze handle, sweep base of fire",
+                        "Aim, pull pin, squeeze, sweep",
+                        "Squeeze, pull pin, aim, sweep",
+                        "Sweep, pull pin, aim, squeeze"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 26,
+                    "question": "How often should you inspect your PFD?",
+                    "options": [
+                        "Once a year",
+                        "Before each use",
+                        "Never",
+                        "Monthly"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 27,
+                    "question": "Which of the following is a proper distress signal?",
+                    "options": [
+                        "Three short blasts on a horn repeated at intervals",
+                        "Two long blasts followed by one short blast",
+                        "One long blast only",
+                        "Flashing a white light at night"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 28,
+                    "question": "What is a float plan?",
+                    "options": [
+                        "A navigation chart",
+                        "A plan shared with someone detailing your trip details and expected return",
+                        "A safety checklist for your boat",
+                        "A list of emergency contacts"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 29,
+                    "question": "What is the minimum age to operate a power-driven vessel in most Canadian provinces?",
+                    "options": [
+                        "12",
+                        "16",
+                        "18",
+                        "No minimum age"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 30,
+                    "question": "What is the primary safety equipment you must have on board a pleasure craft?",
+                    "options": [
+                        "Fire extinguisher",
+                        "Approved PFD for each person",
+                        "Flares",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 31,
+                    "question": "What action should you take if you hear a distress call on VHF channel 16?",
+                    "options": [
+                        "Change to channel 70",
+                        "Listen carefully and be ready to assist",
+                        "Turn off your radio",
+                        "Ignore"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 32,
+                    "question": "When should you wear a PFD on a boat?",
+                    "options": [
+                        "Only in bad weather",
+                        "At all times when on the water",
+                        "Only when swimming",
+                        "Only during night time"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 33,
+                    "question": "Which of the following is the best way to avoid carbon monoxide poisoning on a boat?",
+                    "options": [
+                        "Avoid running the engine in enclosed spaces",
+                        "Keep the engine running at all times",
+                        "Open all cabin doors at night",
+                        "Use a generator inside the cabin"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 34,
+                    "question": "How do you alert other vessels to your presence in fog?",
+                    "options": [
+                        "Sound the horn with one long blast every two minutes",
+                        "Flash lights continuously",
+                        "Shout loudly",
+                        "Wave flags"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 35,
+                    "question": "What is the function of channel 13 on marine VHF radios?",
+                    "options": [
+                        "Distress calls",
+                        "Bridge-to-bridge communications",
+                        "Weather alerts",
+                        "General chat"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 36,
+                    "question": "How can you protect yourself against heat exhaustion when boating?",
+                    "options": [
+                        "Wear heavy clothing",
+                        "Drink plenty of water and seek shade",
+                        "Drink caffeinated drinks",
+                        "Avoid sunscreen"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 37,
+                    "question": "What should you do if your boat loses power in fog?",
+                    "options": [
+                        "Sound the fog signal and anchor if safe",
+                        "Continue moving slowly",
+                        "Turn off all lights",
+                        "Switch to channel 70"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 38,
+                    "question": "What type of PFD is recommended for open water?",
+                    "options": [
+                        "Inflatable only",
+                        "Foam Type I or Type II approved for your weight",
+                        "No PFD needed in open water",
+                        "Any flotation device"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 39,
+                    "question": "What is the purpose of a kill switch?",
+                    "options": [
+                        "Stop the boat engine immediately in case of emergency",
+                        "Sound an alarm",
+                        "Turn on navigation lights",
+                        "Signal distress"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 40,
+                    "question": "What should you do if you hear someone shout “Man Overboard!”?",
+                    "options": [
+                        "Turn toward the person and throw a flotation aid",
+                        "Ignore and keep going",
+                        "Start the engine faster",
+                        "Throw a flare immediately"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 41,
+                    "question": "How often should you service your boat engine?",
+                    "options": [
+                        "According to the manufacturer’s recommendations",
+                        "Only when it breaks down",
+                        "Every 5 years",
+                        "Never"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 42,
+                    "question": "Which of the following is a recommended way to prevent falls overboard?",
+                    "options": [
+                        "Stay seated while underway",
+                        "Use handrails and avoid sudden movements",
+                        "Wear proper footwear",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 43,
+                    "question": "What does a flashing red light on a vessel at night usually indicate?",
+                    "options": [
+                        "Port (left) side of the vessel",
+                        "Starboard (right) side of the vessel",
+                        "Anchor light",
+                        "Distress signal"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 44,
+                    "question": "Which of the following is a suitable use of a horn?",
+                    "options": [
+                        "Warning other vessels of your presence",
+                        "Calling for help",
+                        "As a distress signal",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 45,
+                    "question": "When should you file a report after a boating accident?",
+                    "options": [
+                        "Only if someone is injured",
+                        "Within 24 hours of the accident if required by law",
+                        "Never",
+                        "Only if your boat is damaged"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 46,
+                    "question": "What should you do before leaving the dock?",
+                    "options": [
+                        "Check weather and fuel levels",
+                        "Inform someone of your float plan",
+                        "Check safety equipment",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 47,
+                    "question": "What is the most common cause of injury on boats?",
+                    "options": [
+                        "Slips and falls",
+                        "Sunburn",
+                        "Animal bites",
+                        "Mechanical failure"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 48,
+                    "question": "What should you do if your boat is taking on water and you cannot stop the leak?",
+                    "options": [
+                        "Use a bilge pump and prepare to abandon ship",
+                        "Ignore it and continue sailing",
+                        "Remove your PFD",
+                        "Call for help only"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 49,
+                    "question": "What is the correct order of priorities in an emergency?",
+                    "options": [
+                        "Preserve life, prevent injury, protect property",
+                        "Protect property, preserve life, prevent injury",
+                        "Prevent injury, protect property, preserve life",
+                        "Call for help, protect property, preserve life"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 50,
+                    "question": "What is the purpose of an anchor?",
+                    "options": [
+                        "To secure the vessel in place",
+                        "To signal distress",
+                        "To increase speed",
+                        "To improve stability"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "title": "Boating Safety Quiz #3",
+            "description": "Test your knowledge of boating safety regulations and best practices",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What type of PFD is suitable for offshore boating?",
+                    "options": [
+                        "Type I (Offshore Life Jacket)",
+                        "Type III (Flotation Aid)",
+                        "Inflatable only",
+                        "None required"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 2,
+                    "question": "Which channel is used to initiate a Digital Selective Calling (DSC) distress alert?",
+                    "options": [
+                        "16",
+                        "70",
+                        "13",
+                        "06"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 3,
+                    "question": "What is the main cause of boating accidents?",
+                    "options": [
+                        "Weather",
+                        "Operator error or inattention",
+                        "Mechanical failure",
+                        "Wildlife interference"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 4,
+                    "question": "How should you approach a person overboard?",
+                    "options": [
+                        "Against the wind or current",
+                        "With the wind or current",
+                        "Any direction, quickly",
+                        "Never approach"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 5,
+                    "question": "Which signal is internationally recognized as a distress call?",
+                    "options": [
+                        "One long blast every minute",
+                        "Three short blasts on the horn repeated",
+                        "Three short flashes of light",
+                        "Three long blasts on the horn repeated"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 6,
+                    "question": "What is the best way to avoid hypothermia when immersed in cold water?",
+                    "options": [
+                        "Swim to generate heat",
+                        "Use HELP position and conserve heat",
+                        "Remove clothing immediately",
+                        "Stay awake"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 7,
+                    "question": "What is the purpose of an Emergency Position Indicating Radio Beacon (EPIRB)?",
+                    "options": [
+                        "Alert rescue authorities of your location via satellite",
+                        "Signal with light",
+                        "Produce a loud noise",
+                        "Measure water temperature"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 8,
+                    "question": "What is the effect of alcohol on boat operators?",
+                    "options": [
+                        "Improves decision-making",
+                        "Impairs judgment and coordination",
+                        "Has no effect",
+                        "Increases focus"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 9,
+                    "question": "Which of the following should NOT be done if your boat catches fire?",
+                    "options": [
+                        "Use a fire extinguisher if trained",
+                        "Abandon ship if fire is uncontrollable",
+                        "Pour gasoline on the fire",
+                        "Call for help"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 10,
+                    "question": "What does a steady red light on a vessel indicate?",
+                    "options": [
+                        "Starboard side",
+                        "Port side",
+                        "Anchor light",
+                        "Navigation hazard"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 11,
+                    "question": "Which action is recommended when boating in fog?",
+                    "options": [
+                        "Use sound signals frequently",
+                        "Increase speed to get through fog quickly",
+                        "Turn off lights to save power",
+                        "Ignore other vessels"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 12,
+                    "question": "How often should pyrotechnic flares be replaced?",
+                    "options": [
+                        "Every year",
+                        "Before expiry date",
+                        "Every 10 years",
+                        "When they are used"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 13,
+                    "question": "What should you do before starting your vessel’s engine?",
+                    "options": [
+                        "Check fuel and oil levels",
+                        "Make sure all passengers have PFDs on",
+                        "Check for obstacles nearby",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 14,
+                    "question": "Which of the following is a common symptom of heat exhaustion?",
+                    "options": [
+                        "Shivering",
+                        "Excessive sweating and weakness",
+                        "Drowsiness and confusion",
+                        "Numbness"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 15,
+                    "question": "What is the recommended way to signal distress during the day?",
+                    "options": [
+                        "Wave arms or use a bright cloth",
+                        "Use a whistle continuously",
+                        "Flash lights at night",
+                        "Sound a horn twice"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 16,
+                    "question": "How long is a PCOC certificate valid?",
+                    "options": [
+                        "5 years",
+                        "10 years",
+                        "Indefinitely",
+                        "2 years"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 17,
+                    "question": "Which equipment is mandatory on all Canadian recreational boats?",
+                    "options": [
+                        "First aid kit",
+                        "Approved PFD for each person on board",
+                        "Radar system",
+                        "EPIRB"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 18,
+                    "question": "What should you do if you are involved in a boating collision?",
+                    "options": [
+                        "Stop immediately and assist if possible",
+                        "Leave the scene",
+                        "Continue sailing",
+                        "Ignore minor damages"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 19,
+                    "question": "What is the most effective way to reduce the risk of falls on a boat?",
+                    "options": [
+                        "Wear appropriate non-slip footwear",
+                        "Keep deck clear of clutter",
+                        "Use handrails",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 20,
+                    "question": "What kind of signals are used in Digital Selective Calling (DSC)?",
+                    "options": [
+                        "Voice signals",
+                        "Digital coded signals",
+                        "Visual hand signals",
+                        "Flare signals"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 21,
+                    "question": "What is the minimum age to legally operate a power-driven pleasure craft in Canada?",
+                    "options": [
+                        "12",
+                        "16",
+                        "18",
+                        "21"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 22,
+                    "question": "What is the danger of a “suction” effect near a capsized vessel?",
+                    "options": [
+                        "It pulls people and debris underwater",
+                        "It causes overheating",
+                        "It attracts other vessels",
+                        "It cools the water"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 23,
+                    "question": "What is the proper action if you become stranded in cold water?",
+                    "options": [
+                        "Swim to shore",
+                        "Use HELP position and conserve heat",
+                        "Remove your PFD",
+                        "Wait for help without PFD"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 24,
+                    "question": "Which signal means “All clear” or “Safe”?",
+                    "options": [
+                        "Waving a white flag",
+                        "Green flare",
+                        "Red hand flare",
+                        "Orange smoke"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 25,
+                    "question": "What is the correct sequence when using a fire extinguisher?",
+                    "options": [
+                        "Pull pin, aim at base, squeeze, sweep",
+                        "Aim, squeeze, pull pin, sweep",
+                        "Sweep, squeeze, pull pin, aim",
+                        "Pull pin, squeeze, aim, sweep"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 26,
+                    "question": "How can you best protect yourself from heat exhaustion while boating?",
+                    "options": [
+                        "Drink plenty of fluids and rest in shade",
+                        "Wear heavy clothes",
+                        "Avoid drinking water",
+                        "Expose yourself to the sun"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 27,
+                    "question": "What does the term “knots” refer to in boating?",
+                    "options": [
+                        "Number of sails",
+                        "Speed in nautical miles per hour",
+                        "Number of passengers",
+                        "Distance to shore"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 28,
+                    "question": "Which of the following should you NOT do in case of a medical emergency on board?",
+                    "options": [
+                        "Provide first aid if trained",
+                        "Contact emergency services",
+                        "Panic and leave the scene",
+                        "Use communication equipment to get help"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 29,
+                    "question": "What is the typical effective range of hand-held flares?",
+                    "options": [
+                        "About 100 feet",
+                        "About 1 km",
+                        "Several kilometers",
+                        "About 50 meters"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 30,
+                    "question": "What does a flashing green light on a vessel indicate?",
+                    "options": [
+                        "Starboard side",
+                        "Port side",
+                        "Anchor light",
+                        "Navigation hazard"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 31,
+                    "question": "What should you do if your engine stalls in the middle of a busy channel?",
+                    "options": [
+                        "Signal distress and try to restart",
+                        "Jump overboard",
+                        "Ignore and wait",
+                        "Abandon ship"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 32,
+                    "question": "Which of the following is NOT a recommended precaution to avoid collisions?",
+                    "options": [
+                        "Maintain a proper lookout",
+                        "Follow navigation rules",
+                        "Travel at excessive speed",
+                        "Use sound signals as required"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 33,
+                    "question": "What is a \"no wake\" zone?",
+                    "options": [
+                        "Area where boats must not create waves",
+                        "Area where boats may speed",
+                        "Area where swimming is prohibited",
+                        "Area for fishing only"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 34,
+                    "question": "How should you signal your vessel’s position when anchored at night?",
+                    "options": [
+                        "Use anchor light visible 360 degrees",
+                        "Use red and green side lights",
+                        "No lights needed",
+                        "Use a spotlight"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 35,
+                    "question": "What type of floatation device is not suitable for children?",
+                    "options": [
+                        "Type I PFD",
+                        "Inflatable PFDs not approved for children",
+                        "Type II PFD",
+                        "All types suitable"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 36,
+                    "question": "What does a single prolonged blast of the horn mean when underway?",
+                    "options": [
+                        "I am altering my course to starboard",
+                        "I intend to overtake you on your starboard side",
+                        "Danger or warning",
+                        "I am stopped"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 37,
+                    "question": "What should you do if you notice a fuel smell on board?",
+                    "options": [
+                        "Turn off all engines and electrical equipment immediately",
+                        "Ignore it",
+                        "Open fuel tank",
+                        "Smoke a cigarette to check"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 38,
+                    "question": "How far must you stay from a dive flag?",
+                    "options": [
+                        "30 meters",
+                        "100 meters",
+                        "5 meters",
+                        "300 meters"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 39,
+                    "question": "What should you do if you see another vessel signaling distress?",
+                    "options": [
+                        "Respond and offer assistance if safe",
+                        "Ignore and continue",
+                        "Speed away",
+                        "Report only if required"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 40,
+                    "question": "When should navigation lights be displayed?",
+                    "options": [
+                        "Only during the day",
+                        "From sunset to sunrise and in restricted visibility",
+                        "Only during fog",
+                        "Never"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 41,
+                    "question": "What is the primary reason for keeping a proper lookout?",
+                    "options": [
+                        "To spot landmarks",
+                        "To avoid collisions and hazards",
+                        "To enjoy the scenery",
+                        "To check engine performance"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 42,
+                    "question": "What should you do to secure a small boat for winter storage?",
+                    "options": [
+                        "Drain fuel and water systems",
+                        "Remove batteries",
+                        "Store in a dry, secure place",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 43,
+                    "question": "How can you recognize a sailboat underway?",
+                    "options": [
+                        "No engine noise and sails raised",
+                        "Loud engine noise",
+                        "Red flashing lights",
+                        "Large wake"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 44,
+                    "question": "What action should you take when you hear five or more short blasts on a horn from another vessel?",
+                    "options": [
+                        "Danger or emergency signal — stop or take avoiding action",
+                        "Greeting signal",
+                        "Passing signal",
+                        "Slow down"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 45,
+                    "question": "What is a “rule of the road” in boating?",
+                    "options": [
+                        "Local traffic laws",
+                        "Navigation rules to avoid collisions",
+                        "Rules for vehicle traffic near water",
+                        "Guidelines for fishing"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 46,
+                    "question": "How can you reduce the risk of carbon monoxide poisoning?",
+                    "options": [
+                        "Avoid operating engines or generators near occupied cabins or swim platforms",
+                        "Open windows while underway",
+                        "Run engine only when necessary",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 47,
+                    "question": "What type of vessel has the right of way?",
+                    "options": [
+                        "Power-driven vessels over sailboats",
+                        "Sailboats over power-driven vessels",
+                        "Fishing vessels over recreational boats",
+                        "Large commercial vessels over all others"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 48,
+                    "question": "What is the primary safety measure when towing a skier?",
+                    "options": [
+                        "Use a spotter",
+                        "Always keep the skier in direct line of sight",
+                        "Communicate signals",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 49,
+                    "question": "What should you do if your PFD becomes uncomfortable or restrictive?",
+                    "options": [
+                        "Remove it immediately",
+                        "Adjust for comfort but keep it on at all times when underway",
+                        "Only wear it when near shore",
+                        "Use a non-approved PFD"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 50,
+                    "question": "How should you signal distress at night?",
+                    "options": [
+                        "Use continuous white light",
+                        "Use red flares or flashing red lights",
+                        "Use green flares",
+                        "Use horn blasts only"
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        },
+        {
+            "title": "Boating Safety Quiz #4",
+            "description": "Test your knowledge of boating safety regulations and best practices",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Which colour light is on the starboard side of a boat?",
+                    "options": [
+                        "Red",
+                        "Green",
+                        "White",
+                        "Yellow"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 2,
+                    "question": "How far must you stay away from a vessel displaying a diver down flag?",
+                    "options": [
+                        "5 meters",
+                        "15 meters",
+                        "30 meters",
+                        "100 meters"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 3,
+                    "question": "What is the correct way to sound your horn when nearing a blind bend?",
+                    "options": [
+                        "One long blast",
+                        "Two short blasts",
+                        "Three short blasts",
+                        "No horn"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 4,
+                    "question": "What is a common cause of boating fatalities?",
+                    "options": [
+                        "Drowning without wearing a PFD",
+                        "Fire",
+                        "Weather",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 5,
+                    "question": "What does a white flashing light mean on a power-driven vessel?",
+                    "options": [
+                        "Anchored",
+                        "Underway",
+                        "Towing another vessel",
+                        "Distress"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 6,
+                    "question": "How should you communicate on a VHF radio during an emergency?",
+                    "options": [
+                        "Use plain language and speak slowly",
+                        "Use code words only",
+                        "Shout to be heard",
+                        "Use slang"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 7,
+                    "question": "What does a sound signal of five or more short blasts mean?",
+                    "options": [
+                        "Warning or danger",
+                        "Greeting",
+                        "Request to pass",
+                        "No meaning"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 8,
+                    "question": "When should you wear a PFD?",
+                    "options": [
+                        "At all times when on or near water",
+                        "Only when swimming",
+                        "Only when in rough water",
+                        "Never"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 9,
+                    "question": "Which of these is NOT an effective way to prevent carbon monoxide poisoning?",
+                    "options": [
+                        "Avoid running the engine in enclosed areas",
+                        "Run generators in open air",
+                        "Keep exhaust clear of air intakes",
+                        "Run engines inside closed cabins"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 10,
+                    "question": "How do you signal distress if you have no radio or pyrotechnics?",
+                    "options": [
+                        "Wave arms, use mirror signals, or create smoke",
+                        "Shout loudly",
+                        "Use your boat horn continuously",
+                        "Nothing"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 11,
+                    "question": "How do you recognize a sailboat underway at night?",
+                    "options": [
+                        "Green and red sidelights and a white sternlight",
+                        "Flashing red light",
+                        "Only a white light",
+                        "No lights"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 12,
+                    "question": "What should you do if you see another vessel on a collision course?",
+                    "options": [
+                        "Alter course early to avoid collision",
+                        "Speed up",
+                        "Maintain course",
+                        "Sound your horn continuously"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 13,
+                    "question": "What is the best way to prevent seasickness?",
+                    "options": [
+                        "Stay on deck and look at the horizon",
+                        "Stay below deck",
+                        "Eat heavily before sailing",
+                        "Drink alcohol"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 14,
+                    "question": "What is the meaning of a red and white flag?",
+                    "options": [
+                        "Diver down flag",
+                        "Distress signal",
+                        "No wake zone",
+                        "Speed limit zone"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 15,
+                    "question": "What does a series of short horn blasts mean?",
+                    "options": [
+                        "\"I am altering my course to port\"",
+                        "\"I intend to overtake you on your starboard side\"",
+                        "\"I am operating astern propulsion\"",
+                        "No meaning"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 16,
+                    "question": "What is the maximum recommended blood alcohol concentration for boat operators in Canada?",
+                    "options": [
+                        "0.08%",
+                        "0.10%",
+                        "0.05%",
+                        "0.00%"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 17,
+                    "question": "What is the proper response if you receive a distress call?",
+                    "options": [
+                        "Respond if able and notify authorities",
+                        "Ignore",
+                        "Switch channels",
+                        "Continue normal operations"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 18,
+                    "question": "What is the importance of a float plan?",
+                    "options": [
+                        "Helps others know your itinerary in case of emergency",
+                        "Required by law everywhere",
+                        "Used to track weather",
+                        "Used for insurance"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 19,
+                    "question": "How often should safety equipment be checked?",
+                    "options": [
+                        "Before each trip",
+                        "Monthly",
+                        "Yearly",
+                        "Never"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 20,
+                    "question": "What is the best way to extinguish a grease fire on a boat?",
+                    "options": [
+                        "Use a fire extinguisher rated for Class B fires",
+                        "Use water",
+                        "Smother with a blanket",
+                        "Use ice"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 21,
+                    "question": "What does a flashing white light mean on a vessel at anchor?",
+                    "options": [
+                        "No meaning",
+                        "Vessel is underway",
+                        "Vessel is anchored and may be dragging",
+                        "Distress"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 22,
+                    "question": "When should you test your EPIRB?",
+                    "options": [
+                        "Monthly",
+                        "Only in an emergency",
+                        "According to manufacturer’s instructions",
+                        "Annually"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 23,
+                    "question": "What is a key factor in safe navigation?",
+                    "options": [
+                        "Maintaining a proper lookout",
+                        "Avoiding collisions",
+                        "Knowing weather conditions",
+                        "All of the above"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "id": 24,
+                    "question": "What is the danger of overloading a boat?",
+                    "options": [
+                        "Increased risk of capsizing or swamping",
+                        "Reduced speed only",
+                        "No danger",
+                        "Easier handling"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 25,
+                    "question": "What should you do if your PFD becomes torn or damaged?",
+                    "options": [
+                        "Replace it",
+                        "Continue to use it",
+                        "Repair it temporarily",
+                        "Ignore damage"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 26,
+                    "question": "What is the effect of cold water on the human body?",
+                    "options": [
+                        "Causes rapid heat loss leading to hypothermia",
+                        "Warms the body",
+                        "Has no effect",
+                        "Improves circulation"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 27,
+                    "question": "What is the correct distance from shore when using a personal watercraft (PWC)?",
+                    "options": [
+                        "At least 30 meters",
+                        "5 meters",
+                        "No distance required",
+                        "100 meters"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 28,
+                    "question": "What is the best way to avoid propeller injuries?",
+                    "options": [
+                        "Always switch off the engine before boarding or swimming near the boat",
+                        "Wear protective gear",
+                        "Use a propeller guard",
+                        "Avoid water sports"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 29,
+                    "question": "What is the maximum speed allowed in a “no wake” zone?",
+                    "options": [
+                        "No wake speed (minimum speed to maintain steerage)",
+                        "10 knots",
+                        "20 knots",
+                        "5 knots"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 30,
+                    "question": "What should you do if your boat is capsized?",
+                    "options": [
+                        "Stay with the boat and try to climb on top if possible",
+                        "Swim to shore immediately",
+                        "Abandon the boat and swim away",
+                        "Remove your PFD"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 31,
+                    "question": "What is the definition of a “headway speed”?",
+                    "options": [
+                        "Minimum speed needed to maintain steering control",
+                        "Maximum allowed speed",
+                        "Speed when anchored",
+                        "Speed when docking"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 32,
+                    "question": "How do you signal a boat you intend to overtake on the starboard side?",
+                    "options": [
+                        "Two short blasts",
+                        "One short blast",
+                        "Three short blasts",
+                        "No signal needed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 33,
+                    "question": "What is a common cause of carbon monoxide poisoning on boats?",
+                    "options": [
+                        "Exhaust from engines and generators in enclosed or poorly ventilated areas",
+                        "Exposure to sun",
+                        "Drinking alcohol",
+                        "Faulty batteries"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 34,
+                    "question": "What should you do if caught in a sudden storm while boating?",
+                    "options": [
+                        "Head to shore or sheltered waters",
+                        "Increase speed to outrun storm",
+                        "Ignore and continue on course",
+                        "Anchor immediately"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 35,
+                    "question": "What is the purpose of navigation rules?",
+                    "options": [
+                        "Prevent collisions and ensure safe boating",
+                        "Control fishing activities",
+                        "Regulate fuel use",
+                        "Restrict access to waterways"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 36,
+                    "question": "What is the required equipment for night operation?",
+                    "options": [
+                        "Proper navigation lights",
+                        "Flares",
+                        "Radar",
+                        "Life raft"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 37,
+                    "question": "What is the importance of a bilge pump?",
+                    "options": [
+                        "Removes water accumulating inside the boat",
+                        "Pumps fuel",
+                        "Cools engine",
+                        "No importance"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 38,
+                    "question": "What should you do if you feel seasick?",
+                    "options": [
+                        "Get fresh air and focus on the horizon",
+                        "Lie down below deck",
+                        "Drink alcohol",
+                        "Swim"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 39,
+                    "question": "What should you do if your VHF radio is not working in an emergency?",
+                    "options": [
+                        "Use other means to signal, such as flares or horn",
+                        "Wait for rescue",
+                        "Use your cellphone only",
+                        "Do nothing"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 40,
+                    "question": "How should you respond to a collision with another vessel?",
+                    "options": [
+                        "Stop and give assistance as needed",
+                        "Continue sailing",
+                        "Leave scene quickly",
+                        "Ignore minor damage"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 41,
+                    "question": "What is a common sign of hypothermia?",
+                    "options": [
+                        "Shivering and confusion",
+                        "Sweating",
+                        "Increased energy",
+                        "Rapid heartbeat"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 42,
+                    "question": "What is the recommended distance to keep from a commercial vessel?",
+                    "options": [
+                        "As far as possible, preferably 500 meters or more",
+                        "10 meters",
+                        "100 meters",
+                        "No special distance"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 43,
+                    "question": "How can you improve your visibility at night?",
+                    "options": [
+                        "Use proper navigation lights",
+                        "Use a flashlight only",
+                        "Turn off all lights",
+                        "Use a whistle"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 44,
+                    "question": "What should you do if you lose sight of another vessel during fog?",
+                    "options": [
+                        "Sound appropriate fog signals and proceed cautiously",
+                        "Speed up",
+                        "Turn off lights",
+                        "Ignore"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 45,
+                    "question": "What is the purpose of life rings on a boat?",
+                    "options": [
+                        "To provide flotation to persons overboard",
+                        "To decorate the boat",
+                        "To use as seats",
+                        "To measure depth"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 46,
+                    "question": "What is the general rule for right of way between power-driven vessels?",
+                    "options": [
+                        "Vessel on the starboard side has right of way",
+                        "Vessel on the port side has right of way",
+                        "Faster vessel has right of way",
+                        "No rule"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 47,
+                    "question": "What type of lifejacket is best for calm, sheltered waters?",
+                    "options": [
+                        "Type I",
+                        "Type II",
+                        "Type III",
+                        "Inflatable only"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 48,
+                    "question": "When should you sound one short blast on your horn?",
+                    "options": [
+                        "To indicate \"I intend to leave you on my port side\"",
+                        "To indicate \"I am reversing\"",
+                        "To indicate \"Danger\"",
+                        "No meaning"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 49,
+                    "question": "What should you do if you find an injured person in the water?",
+                    "options": [
+                        "Approach carefully and assist with flotation aids",
+                        "Jump in immediately without preparation",
+                        "Call for help and wait",
+                        "Throw a rock to get attention"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 50,
+                    "question": "What is the first thing you should do when your boat begins to take on water?",
+                    "options": [
+                        "Try to find and stop the leak, start bailing or pump water out",
+                        "Abandon ship immediately",
+                        "Turn off engine",
+                        "Signal distress only"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "title": "Boating Safety Quiz #5",
+            "description": "Test your knowledge of boating safety regulations and best practices",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What does the colour red on a buoy generally indicate?",
+                    "options": [
+                        "Safe water",
+                        "Port (left) side of channel when returning from sea",
+                        "Starboard (right) side of channel when returning from sea",
+                        "Danger area"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 2,
+                    "question": "When should you sound your horn with two short blasts?",
+                    "options": [
+                        "To indicate you are altering course to starboard",
+                        "To indicate you intend to overtake on your starboard side",
+                        "To signal danger",
+                        "To greet another vessel"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 3,
+                    "question": "What is the purpose of a marine compass?",
+                    "options": [
+                        "To measure speed",
+                        "To determine boat heading",
+                        "To communicate with other vessels",
+                        "To detect underwater obstacles"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 4,
+                    "question": "What is the minimum PFD requirement for children under 16 years on board?",
+                    "options": [
+                        "PFD must be available on the boat",
+                        "Must wear a PFD at all times when underway",
+                        "PFDs are optional",
+                        "Only needed when swimming"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 5,
+                    "question": "How far away should you stay from a person swimming or diving?",
+                    "options": [
+                        "5 meters",
+                        "15 meters",
+                        "30 meters",
+                        "50 meters"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "id": 6,
+                    "question": "What should you do if you are operating a vessel in fog?",
+                    "options": [
+                        "Increase speed to reach destination faster",
+                        "Maintain a proper lookout and reduce speed",
+                        "Turn off navigation lights",
+                        "Sound continuous horn blasts"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 7,
+                    "question": "What is the meaning of a single prolonged blast on a horn when underway?",
+                    "options": [
+                        "I am altering my course to starboard",
+                        "Warning signal to alert other vessels",
+                        "I am stopped and anchored",
+                        "I am reversing"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 8,
+                    "question": "What should you do if you see a green buoy while returning from the sea?",
+                    "options": [
+                        "Pass the buoy on your port side",
+                        "Pass the buoy on your starboard side",
+                        "Stop and anchor",
+                        "Ignore the buoy"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 9,
+                    "question": "What is the recommended action when approaching a power-driven vessel head-on?",
+                    "options": [
+                        "Turn to starboard to pass port-to-port",
+                        "Maintain course and speed",
+                        "Turn to port to pass starboard-to-starboard",
+                        "Stop immediately"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 10,
+                    "question": "How should a vessel signal that it is not under command?",
+                    "options": [
+                        "Two black balls in a vertical line",
+                        "A red and white flag",
+                        "Continuous sounding of horn",
+                        "A flashing white light"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 11,
+                    "question": "What is the best way to avoid collisions?",
+                    "options": [
+                        "Sound your horn continuously",
+                        "Maintain a proper lookout and follow navigation rules",
+                        "Speed up to pass first",
+                        "Ignore other vessels"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 12,
+                    "question": "What is the purpose of an Emergency Position Indicating Radio Beacon (EPIRB)?",
+                    "options": [
+                        "To call for help and send location during emergencies",
+                        "To navigate",
+                        "To communicate with other vessels",
+                        "To measure speed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 13,
+                    "question": "What is the maximum speed you should travel in a “no wake” zone?",
+                    "options": [
+                        "Minimum speed needed to maintain steerage",
+                        "10 knots",
+                        "5 knots",
+                        "Full speed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 14,
+                    "question": "What does a flashing red light on a buoy indicate?",
+                    "options": [
+                        "Safe water",
+                        "Danger or obstruction to navigation",
+                        "Channel to starboard",
+                        "Channel to port"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "id": 15,
+                    "question": "What is the proper way to secure a small boat after use?",
+                    "options": [
+                        "Tie it securely to a dock or mooring",
+                        "Leave it loose",
+                        "Anchor it in deep water",
+                        "Store it on shore without tying"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 16,
+                    "question": "When must navigation lights be displayed?",
+                    "options": [
+                        "From sunset to sunrise and during restricted visibility",
+                        "Only at night",
+                        "Only in fog",
+                        "Only when underway"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 17,
+                    "question": "What is a key precaution to avoid carbon monoxide poisoning?",
+                    "options": [
+                        "Operate engines and generators in well-ventilated areas",
+                        "Run the engine inside enclosed cabins",
+                        "Close all windows and hatches",
+                        "Use heaters in enclosed spaces"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 18,
+                    "question": "What should you do if your boat begins to take on water?",
+                    "options": [
+                        "Attempt to locate and stop the source of the leak and use bilge pumps",
+                        "Abandon the boat immediately",
+                        "Turn off the engine and wait",
+                        "Jump into the water"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 19,
+                    "question": "What is the proper way to pass another vessel when overtaking?",
+                    "options": [
+                        "Pass on the vessel’s starboard side",
+                        "Pass on the vessel’s port side",
+                        "Pass without signaling",
+                        "Stop and wait"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 20,
+                    "question": "What is the general rule for right of way between sailboats and power-driven vessels?",
+                    "options": [
+                        "Power-driven vessels must give way to sailboats",
+                        "Sailboats must give way to power-driven vessels",
+                        "No right of way rules apply",
+                        "The larger vessel always has right of way"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 21,
+                    "question": "What is the best way to prevent seasickness?",
+                    "options": [
+                        "Stay on deck and look at the horizon",
+                        "Eat a heavy meal before boating",
+                        "Stay below deck",
+                        "Drink alcohol"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 22,
+                    "question": "What is the minimum number of PFDs required on board?",
+                    "options": [
+                        "One per person on board",
+                        "One per adult only",
+                        "Two per boat",
+                        "No requirement"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 23,
+                    "question": "When towing a skier, what safety measure is important?",
+                    "options": [
+                        "Always have a spotter watching the skier",
+                        "Use only one hand on the tow rope",
+                        "Tow the skier in front of the boat",
+                        "Keep the skier behind the boat at all times"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 24,
+                    "question": "What should you do if you witness a boating accident?",
+                    "options": [
+                        "Stop and render assistance if safe",
+                        "Continue on your way",
+                        "Report only if authorities ask",
+                        "Ignore it"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 25,
+                    "question": "What is the effect of alcohol on boating?",
+                    "options": [
+                        "Impairs judgment and increases risk of accidents",
+                        "Improves reaction time",
+                        "Has no effect",
+                        "Is recommended to calm nerves"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 26,
+                    "question": "What does the term “astern propulsion” mean?",
+                    "options": [
+                        "Moving backward using engine power",
+                        "Moving forward quickly",
+                        "Using sails only",
+                        "Turning the boat"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 27,
+                    "question": "What is the safe way to board a small boat?",
+                    "options": [
+                        "Board carefully from the side and maintain balance",
+                        "Jump in from the dock",
+                        "Climb over the bow",
+                        "Enter while boat is moving"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 28,
+                    "question": "What should you do if you are caught in cold water?",
+                    "options": [
+                        "Stay calm, conserve heat, and keep your head above water",
+                        "Swim vigorously to shore",
+                        "Remove your PFD",
+                        "Remove clothing"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 29,
+                    "question": "What is the purpose of navigation charts?",
+                    "options": [
+                        "To provide detailed information about waterways and hazards",
+                        "To track speed",
+                        "To record fishing locations",
+                        "To decorate the boat"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 30,
+                    "question": "What is the main responsibility of the skipper?",
+                    "options": [
+                        "Safe operation of the boat and safety of all on board",
+                        "Cooking meals",
+                        "Cleaning the boat",
+                        "Fishing"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 31,
+                    "question": "What is the significance of a yellow flag on a boat?",
+                    "options": [
+                        "Quarantine or health-related warning",
+                        "Indication of diver down",
+                        "Warning of mechanical problems",
+                        "Signal of distress"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 32,
+                    "question": "How should you handle a person overboard situation?",
+                    "options": [
+                        "Throw a flotation device and keep the person in sight",
+                        "Immediately turn off the engine and leave the person",
+                        "Ignore and continue",
+                        "Jump in without preparation"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 33,
+                    "question": "What is a key step when fueling a boat?",
+                    "options": [
+                        "Turn off engine and electrical devices",
+                        "Fuel while engine is running",
+                        "Smoke near fuel tank",
+                        "Fuel at full speed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 34,
+                    "question": "What does a whistle signal of one long blast mean?",
+                    "options": [
+                        "Warning signal to alert other vessels",
+                        "Greeting",
+                        "Request to pass",
+                        "No meaning"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 35,
+                    "question": "How should you prepare your boat before heading out in cold weather?",
+                    "options": [
+                        "Carry extra warm clothing and emergency supplies",
+                        "No special preparation needed",
+                        "Only bring food",
+                        "Avoid wearing PFDs"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 36,
+                    "question": "What should you do if your vessel loses steering control?",
+                    "options": [
+                        "Reduce speed and use engines to steer if possible",
+                        "Speed up",
+                        "Turn off engines immediately",
+                        "Jump into the water"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 37,
+                    "question": "What does a green light on a buoy signify?",
+                    "options": [
+                        "Starboard side of the channel when returning from sea",
+                        "Port side of the channel when returning from sea",
+                        "Danger area",
+                        "No meaning"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 38,
+                    "question": "What is the purpose of a bilge pump?",
+                    "options": [
+                        "Remove water from inside the boat",
+                        "Pump fuel",
+                        "Circulate air",
+                        "Inflate the boat"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 39,
+                    "question": "What is the safest place to stand when the boat is underway?",
+                    "options": [
+                        "Holding a secure handhold and keeping your balance",
+                        "At the bow without holding anything",
+                        "Standing on the gunwale",
+                        "Sitting on the edge"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 40,
+                    "question": "What should you do if you are involved in a collision?",
+                    "options": [
+                        "Stop immediately and render assistance if possible",
+                        "Continue moving",
+                        "Leave the scene",
+                        "Ignore minor damage"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 41,
+                    "question": "What is a good practice when operating a personal watercraft (PWC)?",
+                    "options": [
+                        "Always wear a PFD and avoid reckless maneuvers",
+                        "Operate without a PFD",
+                        "Tow multiple passengers at once",
+                        "Speed through no-wake zones"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 42,
+                    "question": "How can you reduce wake damage in narrow channels?",
+                    "options": [
+                        "Slow to no wake speed",
+                        "Increase speed to pass quickly",
+                        "Maintain normal speed",
+                        "Avoid the channel"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 43,
+                    "question": "What should you do if your engine stalls while underway?",
+                    "options": [
+                        "Try to restart and signal for help if necessary",
+                        "Abandon boat",
+                        "Turn off all lights",
+                        "Increase speed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 44,
+                    "question": "What is the correct way to signal distress?",
+                    "options": [
+                        "Use red flares, continuous horn blasts, or waving arms",
+                        "Use green flares",
+                        "Turn off all lights",
+                        "No signal needed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 45,
+                    "question": "What does a yellow flashing light on a vessel indicate?",
+                    "options": [
+                        "Caution or special circumstances",
+                        "Vessel at anchor",
+                        "Vessel underway",
+                        "Distress"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 46,
+                    "question": "What is the best way to avoid propeller injuries?",
+                    "options": [
+                        "Turn off engine before boarding or swimming near the boat",
+                        "Swim near propeller for fun",
+                        "Wear loose clothing near propeller",
+                        "Use the engine at full speed"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 47,
+                    "question": "When should you report a boating accident to authorities?",
+                    "options": [
+                        "When there is injury, death, or significant damage",
+                        "Only if asked",
+                        "Never",
+                        "Always, even if nothing happened"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 48,
+                    "question": "What is the first thing you should do when a fire starts on your boat?",
+                    "options": [
+                        "Use a fire extinguisher if safe to do so",
+                        "Panic",
+                        "Throw water regardless of fire type",
+                        "Abandon the boat"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 49,
+                    "question": "What is the meaning of a blue and white flag?",
+                    "options": [
+                        "Divers in area",
+                        "Distress signal",
+                        "Quarantine flag",
+                        "No wake zone"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "id": 50,
+                    "question": "How can you avoid collisions in busy waterways?",
+                    "options": [
+                        "Maintain proper lookout, follow navigation rules, and communicate clearly",
+                        "Speed through the traffic",
+                        "Ignore other vessels",
+                        "Use only your horn"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        }
+    ]
+}
