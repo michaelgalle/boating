@@ -12,8 +12,11 @@
       <div class="quiz-header">
         <h1 class="quiz-title">Interactive Quiz</h1>
         <div class="score-display">
-          Score: <span id="current-score">0</span> /
+          <!--
+          <span id="current-score">0</span> 
           <span id="total-questions">0</span>
+          -->
+          
         </div>
       </div>
 
@@ -26,7 +29,7 @@
       <div id="quiz-content" class="hidden">
         <div class="question-container">
           <div class="question-number" id="question-number">
-            Question 1 of 5
+            Question 1 of 50
           </div>
           <div class="question-text" id="question-text"></div>
           <div class="options-container" id="options-container"></div>
@@ -45,9 +48,12 @@
       <div id="results" class="results hidden">
         <div class="final-score" id="final-score"></div>
         <p id="results-text"></p>
+        
+        <!-- 
         <button class="btn" onclick="restartQuiz()" style="margin-top: 20px">
           Restart Quiz
         </button>
+        -->
       </div>
     </div>
     <script src="../private/js/exam.js"></script>

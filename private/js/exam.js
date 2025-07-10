@@ -1,22 +1,24 @@
 // Quiz state variables
 let currentQuestionIndex = 0;
 let score = 0;
+let total = 0;
+let percentage = 0;
 let userAnswers = [];
 let questions = [];
-//let quizData = {};
+let quizNumber;
 
 // Initialize quiz
 function initializeQuiz(quizData) {
   //console.log("Quiz data loaded:", quizData);   // Testing
   // From quizData object select a random quiz number [1-5] from the quiz array
-  let quizNumber = Math.floor(Math.random() * quizData["quiz"].length);
+  quizNumber = Math.floor(Math.random() * quizData["quiz"].length);
   //console.log("Selected quiz number:", quizNumber + 1); // Testing  
 
-  questions = quizData["quiz"][1].questions;
+  questions = quizData["quiz"][quizNumber].questions;
   //console.log("Loaded questions:", questions);      // testing
   userAnswers = new Array(questions.length).fill(null);
 
-  document.getElementById("total-questions").textContent = questions.length;
+  //document.getElementById("total-questions").textContent = questions.length;
   document.getElementById("loading").classList.add("hidden");
   document.getElementById("quiz-content").classList.remove("hidden");
 
@@ -124,95 +126,75 @@ function updateProgress() {
 
 // Calculate and show results
 function showResults() {
-  score = 0;
 
-  questions.forEach((question, index) => {
-    if (userAnswers[index] === question.correctAnswer) {
-      score++;
+  // Fetch the score from the back end server as soon as showResults() is called
+  fetch('/api/submit-quiz', {
+    method: 'POST',   // Use POST method to submit answers  
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({  // Send user answers and quiz number to the server
+      answers: userAnswers,
+      quizNumber: quizNumber
+    })
+  })
+    .then(response => { 
+      // Check if the HTTP response was successful (status 200-299)
+      if (!response.ok) {
+        // If not successful, throw an error to trigger the .catch() block
+        // You can also get more details from the response here
+        return response.text().then(errorMessage => { // Try to get text, in case it's not JSON
+          throw new Error(`HTTP error! Status: ${response.status}, Message: ${errorMessage}`);
+        });
+      }
+      // If successful, parse the response as JSON
+      // Note: If the server returns a non-JSON response, this will throw an error
+      return response.json();    
+    })  
+    .then(data => {
+      // Assuming the server returns the score in the response
+      score = data.score;  // Use the score returned from the server
+      total = data.total;  // Total number of questions
+      percentage = data.percentage;  // Percentage score
+
+      //console.log("Score received from server:", score); // Debugging log
+      //console.log("Total questions:", total); // Debugging log
+      //console.log("Percentage:", percentage); // Debugging log
+
+      //document.getElementById("current-score").textContent = score;
+      document.getElementById("quiz-content").classList.add("hidden");
+      document.getElementById("results").classList.remove("hidden");
+   
+      document.getElementById(
+        "final-score"
+      ).textContent = `${score}/${total}`;
+
+      let resultText = `You scored ${percentage}%! `;
+      if (percentage >= 90) {
+        resultText += "Excellent work! 🎉";
+      } else if (percentage >= 70) {
+        resultText += "Great job! 👍";
+      } else if (percentage >= 50) {
+        resultText += "Good effort! 👌";
+      } else {
+        resultText += "Keep practicing! 💪";
+      }
+
+      document.getElementById("results-text").textContent = resultText;
+
+      // Show correct/incorrect answers
+      //showAnswerReview();
+
+    })
+    .catch(error => { 
+      console.error('Error submitting quiz:', error);
+      alert('There was an error submitting your quiz. Please try again later.');
     }
-  });
-
-  document.getElementById("current-score").textContent = score;
-  document.getElementById("quiz-content").classList.add("hidden");
-  document.getElementById("results").classList.remove("hidden");
-
-  const percentage = Math.round((score / questions.length) * 100);
-  document.getElementById(
-    "final-score"
-  ).textContent = `${score}/${questions.length}`;
-
-  let resultText = `You scored ${percentage}%! `;
-  if (percentage >= 90) {
-    resultText += "Excellent work! 🎉";
-  } else if (percentage >= 70) {
-    resultText += "Great job! 👍";
-  } else if (percentage >= 50) {
-    resultText += "Good effort! 👌";
-  } else {
-    resultText += "Keep practicing! 💪";
-  }
-
-  document.getElementById("results-text").textContent = resultText;
-
-  // Show correct/incorrect answers
-  showAnswerReview();
-}
-
-// Show answer review
-function showAnswerReview() {
-  const reviewContainer = document.createElement("div");
-  reviewContainer.innerHTML =
-    '<h3 style="margin: 20px 0;">Answer Review:</h3>';
-
-  questions.forEach((question, index) => {
-    const isCorrect = userAnswers[index] === question.correctAnswer;
-    const userAnswer =
-      userAnswers[index] !== null
-        ? question.options[userAnswers[index]]
-        : "Not answered";
-    const correctAnswer = question.options[question.correctAnswer];
-
-    const questionReview = document.createElement("div");
-    questionReview.style.cssText = `
-              margin-bottom: 15px;
-              padding: 15px;
-              border-radius: 10px;
-              background: ${isCorrect ? "#d4edda" : "#f8d7da"};
-              border: 1px solid ${isCorrect ? "#28a745" : "#dc3545"};
-          `;
-
-    questionReview.innerHTML = `
-              <strong>Q${index + 1}:</strong> ${question.question}<br>
-              <strong>Your answer:</strong> ${userAnswer}<br>
-              <strong>Correct answer:</strong> ${correctAnswer}
-              ${isCorrect ? " ✓" : " ✗"}
-          `;
-
-    reviewContainer.appendChild(questionReview);
-  });
-
-  document.getElementById("results").appendChild(reviewContainer);
-}
-
-// Restart quiz
-function restartQuiz() {
-  currentQuestionIndex = 0;
-  score = 0;
-  userAnswers = new Array(questions.length).fill(null);
-
-  document.getElementById("current-score").textContent = "0";
-  document.getElementById("results").classList.add("hidden");
-  document.getElementById("quiz-content").classList.remove("hidden");
-
-  // Remove answer review
-  const reviewElements = document.querySelectorAll(
-    "#results > div:last-child"
   );
-  reviewElements.forEach((el) => el.remove());
 
-  displayQuestion();
-  updateProgress();
+
 }
+
 
 // Load quiz from JSON file (uncomment this function to use external JSON)
 
