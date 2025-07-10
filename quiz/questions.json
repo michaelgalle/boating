@@ -12,8 +12,7 @@
                         "25%",
                         "50%",
                         "86%"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 2,
@@ -23,8 +22,7 @@
                         "PAN-PAN",
                         "SOS",
                         "SECURITY"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 3,
@@ -34,8 +32,7 @@
                         "Drowning after falling overboard",
                         "Fire on board",
                         "Capsizing"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 4,
@@ -45,8 +42,7 @@
                         "Pyrotechnic distress signal",
                         "Radio distress call",
                         "Visual hand signal"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 5,
@@ -56,8 +52,7 @@
                         "Downwind or into the current",
                         "From behind",
                         "From the side opposite the wind"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 6,
@@ -67,19 +62,17 @@
                         "16",
                         "21B",
                         "13"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 7,
-                    "question": "How often should you inspect and maintain your boat’s essential systems?",
+                    "question": "How often should you inspect and maintain your boat\u2019s essential systems?",
                     "options": [
                         "Annually only",
                         "Before every trip and monthly",
                         "Every 6 months",
                         "Only when you notice a problem"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 8,
@@ -89,19 +82,17 @@
                         "3 years",
                         "4 years",
                         "5 years"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 9,
                     "question": "When cold water is below approximately what temperature does cold-water shock occur?",
                     "options": [
-                        "10°C",
-                        "15°C",
-                        "20°C",
-                        "25°C"
-                    ],
-                    "correctAnswer": 1
+                        "10\u00b0C",
+                        "15\u00b0C",
+                        "20\u00b0C",
+                        "25\u00b0C"
+                    ]
                 },
                 {
                     "id": 10,
@@ -111,8 +102,7 @@
                         "Put on a PFD and warn others",
                         "Abandon the boat immediately",
                         "Call 911"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 11,
@@ -122,8 +112,7 @@
                         "It reduces the risk of drowning",
                         "It keeps you warm",
                         "It is required by law"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 12,
@@ -133,8 +122,7 @@
                         "Clapping hands above head",
                         "Waving both hands side to side",
                         "Crossing arms in front of chest"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 13,
@@ -144,8 +132,7 @@
                         "40%",
                         "60%",
                         "80%"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 14,
@@ -155,8 +142,7 @@
                         "Continuous blasts at 1-minute intervals",
                         "Three short blasts followed by one long blast",
                         "Two short blasts every 2 minutes"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 15,
@@ -166,8 +152,7 @@
                         "Stay on board and try to bail water out",
                         "Jump off and cling to floating debris",
                         "Abandon ship and wait for rescue"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 16,
@@ -177,8 +162,7 @@
                         "DSC VHF Radio",
                         "Handheld flare",
                         "Sound horn"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 17,
@@ -188,19 +172,17 @@
                         "Red hand flare",
                         "Green strobe flare",
                         "Orange smoke flare"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 18,
                     "question": "What is the function of an MMSI number?",
                     "options": [
-                        "To identify the boat’s hull number",
+                        "To identify the boat\u2019s hull number",
                         "To identify the owner of the boat",
                         "To uniquely identify a radio-equipped vessel for DSC calls",
                         "To provide GPS coordinates in an emergency"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 19,
@@ -210,8 +192,7 @@
                         "Attempt to locate and plug the leak",
                         "Turn off the engine and wait for rescue",
                         "Swim to shore"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 20,
@@ -221,8 +202,7 @@
                         "Within 20 meters",
                         "Within 100 meters",
                         "More than 1 kilometer"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 21,
@@ -232,8 +212,7 @@
                         "Dehydration",
                         "Sunburn",
                         "Heat exhaustion"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 22,
@@ -243,8 +222,7 @@
                         "Upwind for easier access",
                         "From any direction quickly",
                         "From behind only"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 23,
@@ -254,8 +232,7 @@
                         "Waving a white towel",
                         "Standing with arms raised and lowered repeatedly",
                         "Using a flashlight to signal Morse code"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 24,
@@ -265,8 +242,7 @@
                         "Operator inattention or error",
                         "Weather conditions",
                         "Animal interference"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 25,
@@ -276,8 +252,7 @@
                         "Make sure everyone is seated and wearing PFDs",
                         "Check weather and navigation instruments",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 26,
@@ -287,8 +262,7 @@
                         "Swimming nearby",
                         "Low fuel",
                         "Strong winds only"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 27,
@@ -298,8 +272,7 @@
                         "Open and accessible anywhere on the boat",
                         "In a locked glove box",
                         "In the engine compartment"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 28,
@@ -309,8 +282,7 @@
                         "Digital Selective Calling (DSC)",
                         "General communications",
                         "Weather updates"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 29,
@@ -320,8 +292,7 @@
                         "Continue working to stay warm",
                         "Drink coffee and keep moving",
                         "Ignore symptoms"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 30,
@@ -331,8 +302,7 @@
                         "High winds and rough waves",
                         "Light drizzle",
                         "Fog only"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 31,
@@ -342,19 +312,17 @@
                         "Drink alcohol to warm up",
                         "Swim vigorously to generate heat",
                         "Wear a PFD and get out of the water ASAP"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 32,
                     "question": "What information should you include when calling MAYDAY?",
                     "options": [
-                        "Your vessel’s name and position",
+                        "Your vessel\u2019s name and position",
                         "Nature of distress",
                         "Number of people on board",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 33,
@@ -364,8 +332,7 @@
                         "Listen carefully and prepare to assist",
                         "Ignore unless requested",
                         "Turn off your radio"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 34,
@@ -375,8 +342,7 @@
                         "It is a distress signal",
                         "The boat is under power",
                         "The boat is at anchor"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 35,
@@ -386,8 +352,7 @@
                         "Anytime on the water",
                         "Only in bad weather",
                         "Only at night"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 36,
@@ -397,8 +362,7 @@
                         "Climb onto the hull and stay together with others",
                         "Try to right the boat by yourself",
                         "Remove your PFD"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 37,
@@ -408,8 +372,7 @@
                         "Half the number of passengers",
                         "One per two passengers",
                         "Two total, regardless of passengers"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 38,
@@ -419,8 +382,7 @@
                         "Impairs judgment and reaction time",
                         "Has no effect on boating",
                         "Increases alertness"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 39,
@@ -430,8 +392,7 @@
                         "Force them to walk around",
                         "Give them cold water to drink",
                         "Apply ice packs to the body"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 40,
@@ -441,8 +402,7 @@
                         "Electrical failure",
                         "Mechanical wear and tear",
                         "Wearing a PFD"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 41,
@@ -452,8 +412,7 @@
                         "Type B",
                         "Type ABC",
                         "Type D"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 42,
@@ -463,8 +422,7 @@
                         "Causes cold shock and rapid loss of motor control",
                         "Improves circulation",
                         "Has no effect"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 43,
@@ -474,8 +432,7 @@
                         "Shout for help",
                         "Turn on the boat engine",
                         "Signal with a flare"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 44,
@@ -485,8 +442,7 @@
                         "Stop and assist if safe to do so",
                         "Continue on your way",
                         "Hide from authorities"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 45,
@@ -496,8 +452,7 @@
                         "Two",
                         "Three",
                         "Five"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 46,
@@ -507,8 +462,7 @@
                         "To signal distress",
                         "To activate the horn",
                         "To turn on navigation lights"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 47,
@@ -518,8 +472,7 @@
                         "Use the HELP position (Heat Escape Lessening Posture)",
                         "Remove your PFD",
                         "Try to swim to the nearest boat"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 48,
@@ -529,8 +482,7 @@
                         "Every time you go boating",
                         "Only for overnight trips",
                         "Never"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 49,
@@ -540,8 +492,7 @@
                         "Swim to shore immediately",
                         "Abandon ship without signaling",
                         "Jump off and float away"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 50,
@@ -551,8 +502,7 @@
                         "Wave bright-colored clothing or flags",
                         "Light a flare",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 }
             ]
         },
@@ -568,8 +518,7 @@
                         "To keep you afloat and reduce drowning risk",
                         "To improve visibility only",
                         "To hold equipment"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 2,
@@ -579,8 +528,7 @@
                         "Immediately jump in after them",
                         "Continue on your course",
                         "Signal with a horn"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 3,
@@ -590,8 +538,7 @@
                         "Vessel at anchor",
                         "Navigation hazard nearby",
                         "Distress"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 4,
@@ -601,8 +548,7 @@
                         "MAYDAY",
                         "SECURITY",
                         "ALL CLEAR"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 5,
@@ -612,8 +558,7 @@
                         "It makes you warm quickly",
                         "It causes dehydration",
                         "It improves swimming ability"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 6,
@@ -623,8 +568,7 @@
                         "12",
                         "16",
                         "70"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 7,
@@ -634,8 +578,7 @@
                         "Orange smoke flare",
                         "White flashing light",
                         "Green flare"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 8,
@@ -645,8 +588,7 @@
                         "Upwind",
                         "From the front at high speed",
                         "From behind"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 9,
@@ -656,8 +598,7 @@
                         "0.10%",
                         "0.00% (no alcohol)",
                         "0.05%"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 10,
@@ -667,8 +608,7 @@
                         "Boat description",
                         "Emergency contacts",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 11,
@@ -678,8 +618,7 @@
                         "HELP (Heat Escape Lessening Posture)",
                         "Swimming vigorously",
                         "Standing upright in water"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 12,
@@ -689,8 +628,7 @@
                         "Only before long trips",
                         "Before each trip and periodically during",
                         "Not necessary"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 13,
@@ -700,8 +638,7 @@
                         "Strong wind gusts",
                         "High waves",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 14,
@@ -711,8 +648,7 @@
                         "Jump overboard",
                         "Turn off all electrical equipment",
                         "Sound the horn repeatedly"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 15,
@@ -722,8 +658,7 @@
                         "Sending automated distress signals",
                         "Checking weather",
                         "Changing channels"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 16,
@@ -733,8 +668,7 @@
                         "Anywhere on the boat",
                         "Under the seat",
                         "Locked in a box"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 17,
@@ -744,8 +678,7 @@
                         "3 to 5 years",
                         "10 years",
                         "No expiration"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 18,
@@ -755,8 +688,7 @@
                         "Transmits an emergency location signal to satellites",
                         "Provides navigation information",
                         "Acts as a flotation device"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 19,
@@ -766,8 +698,7 @@
                         "Immediately abandon ship",
                         "Turn off the engine and wait",
                         "Swim to shore"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 20,
@@ -777,19 +708,17 @@
                         "No effect",
                         "Impairs judgment and reaction time",
                         "Increases alertness"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 21,
-                    "question": "Which of these signals means “all is well” or “no distress”?",
+                    "question": "Which of these signals means \u201call is well\u201d or \u201cno distress\u201d?",
                     "options": [
                         "White flag waved slowly",
                         "Green flare",
                         "Orange smoke",
                         "Red flare"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 22,
@@ -799,8 +728,7 @@
                         "Drowning due to falling overboard",
                         "Collisions with large ships",
                         "Capsizing only"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 23,
@@ -810,8 +738,7 @@
                         "Wear a PFD and stay dry and warm",
                         "Swim in cold water to acclimate",
                         "Exercise vigorously"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 24,
@@ -821,8 +748,7 @@
                         "Describe the nature of distress",
                         "Stay silent after calling once",
                         "State number of people on board"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 25,
@@ -832,8 +758,7 @@
                         "Aim, pull pin, squeeze, sweep",
                         "Squeeze, pull pin, aim, sweep",
                         "Sweep, pull pin, aim, squeeze"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 26,
@@ -843,8 +768,7 @@
                         "Before each use",
                         "Never",
                         "Monthly"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 27,
@@ -854,8 +778,7 @@
                         "Two long blasts followed by one short blast",
                         "One long blast only",
                         "Flashing a white light at night"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 28,
@@ -865,8 +788,7 @@
                         "A plan shared with someone detailing your trip details and expected return",
                         "A safety checklist for your boat",
                         "A list of emergency contacts"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 29,
@@ -876,8 +798,7 @@
                         "16",
                         "18",
                         "No minimum age"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 30,
@@ -887,8 +808,7 @@
                         "Approved PFD for each person",
                         "Flares",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 31,
@@ -898,8 +818,7 @@
                         "Listen carefully and be ready to assist",
                         "Turn off your radio",
                         "Ignore"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 32,
@@ -909,8 +828,7 @@
                         "At all times when on the water",
                         "Only when swimming",
                         "Only during night time"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 33,
@@ -920,8 +838,7 @@
                         "Keep the engine running at all times",
                         "Open all cabin doors at night",
                         "Use a generator inside the cabin"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 34,
@@ -931,8 +848,7 @@
                         "Flash lights continuously",
                         "Shout loudly",
                         "Wave flags"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 35,
@@ -942,8 +858,7 @@
                         "Bridge-to-bridge communications",
                         "Weather alerts",
                         "General chat"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 36,
@@ -953,8 +868,7 @@
                         "Drink plenty of water and seek shade",
                         "Drink caffeinated drinks",
                         "Avoid sunscreen"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 37,
@@ -964,8 +878,7 @@
                         "Continue moving slowly",
                         "Turn off all lights",
                         "Switch to channel 70"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 38,
@@ -975,8 +888,7 @@
                         "Foam Type I or Type II approved for your weight",
                         "No PFD needed in open water",
                         "Any flotation device"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 39,
@@ -986,30 +898,27 @@
                         "Sound an alarm",
                         "Turn on navigation lights",
                         "Signal distress"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 40,
-                    "question": "What should you do if you hear someone shout “Man Overboard!”?",
+                    "question": "What should you do if you hear someone shout \u201cMan Overboard!\u201d?",
                     "options": [
                         "Turn toward the person and throw a flotation aid",
                         "Ignore and keep going",
                         "Start the engine faster",
                         "Throw a flare immediately"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 41,
                     "question": "How often should you service your boat engine?",
                     "options": [
-                        "According to the manufacturer’s recommendations",
+                        "According to the manufacturer\u2019s recommendations",
                         "Only when it breaks down",
                         "Every 5 years",
                         "Never"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 42,
@@ -1019,8 +928,7 @@
                         "Use handrails and avoid sudden movements",
                         "Wear proper footwear",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 43,
@@ -1030,8 +938,7 @@
                         "Starboard (right) side of the vessel",
                         "Anchor light",
                         "Distress signal"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 44,
@@ -1041,8 +948,7 @@
                         "Calling for help",
                         "As a distress signal",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 45,
@@ -1052,8 +958,7 @@
                         "Within 24 hours of the accident if required by law",
                         "Never",
                         "Only if your boat is damaged"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 46,
@@ -1063,8 +968,7 @@
                         "Inform someone of your float plan",
                         "Check safety equipment",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 47,
@@ -1074,8 +978,7 @@
                         "Sunburn",
                         "Animal bites",
                         "Mechanical failure"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 48,
@@ -1085,8 +988,7 @@
                         "Ignore it and continue sailing",
                         "Remove your PFD",
                         "Call for help only"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 49,
@@ -1096,8 +998,7 @@
                         "Protect property, preserve life, prevent injury",
                         "Prevent injury, protect property, preserve life",
                         "Call for help, protect property, preserve life"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 50,
@@ -1107,8 +1008,7 @@
                         "To signal distress",
                         "To increase speed",
                         "To improve stability"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 }
             ]
         },
@@ -1124,8 +1024,7 @@
                         "Type III (Flotation Aid)",
                         "Inflatable only",
                         "None required"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 2,
@@ -1135,8 +1034,7 @@
                         "70",
                         "13",
                         "06"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 3,
@@ -1146,8 +1044,7 @@
                         "Operator error or inattention",
                         "Mechanical failure",
                         "Wildlife interference"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 4,
@@ -1157,8 +1054,7 @@
                         "With the wind or current",
                         "Any direction, quickly",
                         "Never approach"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 5,
@@ -1168,8 +1064,7 @@
                         "Three short blasts on the horn repeated",
                         "Three short flashes of light",
                         "Three long blasts on the horn repeated"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 6,
@@ -1179,8 +1074,7 @@
                         "Use HELP position and conserve heat",
                         "Remove clothing immediately",
                         "Stay awake"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 7,
@@ -1190,8 +1084,7 @@
                         "Signal with light",
                         "Produce a loud noise",
                         "Measure water temperature"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 8,
@@ -1201,8 +1094,7 @@
                         "Impairs judgment and coordination",
                         "Has no effect",
                         "Increases focus"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 9,
@@ -1212,8 +1104,7 @@
                         "Abandon ship if fire is uncontrollable",
                         "Pour gasoline on the fire",
                         "Call for help"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 10,
@@ -1223,8 +1114,7 @@
                         "Port side",
                         "Anchor light",
                         "Navigation hazard"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 11,
@@ -1234,8 +1124,7 @@
                         "Increase speed to get through fog quickly",
                         "Turn off lights to save power",
                         "Ignore other vessels"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 12,
@@ -1245,19 +1134,17 @@
                         "Before expiry date",
                         "Every 10 years",
                         "When they are used"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 13,
-                    "question": "What should you do before starting your vessel’s engine?",
+                    "question": "What should you do before starting your vessel\u2019s engine?",
                     "options": [
                         "Check fuel and oil levels",
                         "Make sure all passengers have PFDs on",
                         "Check for obstacles nearby",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 14,
@@ -1267,8 +1154,7 @@
                         "Excessive sweating and weakness",
                         "Drowsiness and confusion",
                         "Numbness"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 15,
@@ -1278,8 +1164,7 @@
                         "Use a whistle continuously",
                         "Flash lights at night",
                         "Sound a horn twice"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 16,
@@ -1289,8 +1174,7 @@
                         "10 years",
                         "Indefinitely",
                         "2 years"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 17,
@@ -1300,8 +1184,7 @@
                         "Approved PFD for each person on board",
                         "Radar system",
                         "EPIRB"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 18,
@@ -1311,8 +1194,7 @@
                         "Leave the scene",
                         "Continue sailing",
                         "Ignore minor damages"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 19,
@@ -1322,8 +1204,7 @@
                         "Keep deck clear of clutter",
                         "Use handrails",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 20,
@@ -1333,8 +1214,7 @@
                         "Digital coded signals",
                         "Visual hand signals",
                         "Flare signals"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 21,
@@ -1344,19 +1224,17 @@
                         "16",
                         "18",
                         "21"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 22,
-                    "question": "What is the danger of a “suction” effect near a capsized vessel?",
+                    "question": "What is the danger of a \u201csuction\u201d effect near a capsized vessel?",
                     "options": [
                         "It pulls people and debris underwater",
                         "It causes overheating",
                         "It attracts other vessels",
                         "It cools the water"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 23,
@@ -1366,19 +1244,17 @@
                         "Use HELP position and conserve heat",
                         "Remove your PFD",
                         "Wait for help without PFD"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 24,
-                    "question": "Which signal means “All clear” or “Safe”?",
+                    "question": "Which signal means \u201cAll clear\u201d or \u201cSafe\u201d?",
                     "options": [
                         "Waving a white flag",
                         "Green flare",
                         "Red hand flare",
                         "Orange smoke"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 25,
@@ -1388,8 +1264,7 @@
                         "Aim, squeeze, pull pin, sweep",
                         "Sweep, squeeze, pull pin, aim",
                         "Pull pin, squeeze, aim, sweep"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 26,
@@ -1399,19 +1274,17 @@
                         "Wear heavy clothes",
                         "Avoid drinking water",
                         "Expose yourself to the sun"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 27,
-                    "question": "What does the term “knots” refer to in boating?",
+                    "question": "What does the term \u201cknots\u201d refer to in boating?",
                     "options": [
                         "Number of sails",
                         "Speed in nautical miles per hour",
                         "Number of passengers",
                         "Distance to shore"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 28,
@@ -1421,8 +1294,7 @@
                         "Contact emergency services",
                         "Panic and leave the scene",
                         "Use communication equipment to get help"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 29,
@@ -1432,8 +1304,7 @@
                         "About 1 km",
                         "Several kilometers",
                         "About 50 meters"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 30,
@@ -1443,8 +1314,7 @@
                         "Port side",
                         "Anchor light",
                         "Navigation hazard"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 31,
@@ -1454,8 +1324,7 @@
                         "Jump overboard",
                         "Ignore and wait",
                         "Abandon ship"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 32,
@@ -1465,8 +1334,7 @@
                         "Follow navigation rules",
                         "Travel at excessive speed",
                         "Use sound signals as required"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 33,
@@ -1476,19 +1344,17 @@
                         "Area where boats may speed",
                         "Area where swimming is prohibited",
                         "Area for fishing only"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 34,
-                    "question": "How should you signal your vessel’s position when anchored at night?",
+                    "question": "How should you signal your vessel\u2019s position when anchored at night?",
                     "options": [
                         "Use anchor light visible 360 degrees",
                         "Use red and green side lights",
                         "No lights needed",
                         "Use a spotlight"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 35,
@@ -1498,8 +1364,7 @@
                         "Inflatable PFDs not approved for children",
                         "Type II PFD",
                         "All types suitable"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 36,
@@ -1509,8 +1374,7 @@
                         "I intend to overtake you on your starboard side",
                         "Danger or warning",
                         "I am stopped"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 37,
@@ -1520,8 +1384,7 @@
                         "Ignore it",
                         "Open fuel tank",
                         "Smoke a cigarette to check"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 38,
@@ -1531,8 +1394,7 @@
                         "100 meters",
                         "5 meters",
                         "300 meters"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 39,
@@ -1542,8 +1404,7 @@
                         "Ignore and continue",
                         "Speed away",
                         "Report only if required"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 40,
@@ -1553,8 +1414,7 @@
                         "From sunset to sunrise and in restricted visibility",
                         "Only during fog",
                         "Never"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 41,
@@ -1564,8 +1424,7 @@
                         "To avoid collisions and hazards",
                         "To enjoy the scenery",
                         "To check engine performance"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 42,
@@ -1575,8 +1434,7 @@
                         "Remove batteries",
                         "Store in a dry, secure place",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 43,
@@ -1586,30 +1444,27 @@
                         "Loud engine noise",
                         "Red flashing lights",
                         "Large wake"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 44,
                     "question": "What action should you take when you hear five or more short blasts on a horn from another vessel?",
                     "options": [
-                        "Danger or emergency signal — stop or take avoiding action",
+                        "Danger or emergency signal \u2014 stop or take avoiding action",
                         "Greeting signal",
                         "Passing signal",
                         "Slow down"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 45,
-                    "question": "What is a “rule of the road” in boating?",
+                    "question": "What is a \u201crule of the road\u201d in boating?",
                     "options": [
                         "Local traffic laws",
                         "Navigation rules to avoid collisions",
                         "Rules for vehicle traffic near water",
                         "Guidelines for fishing"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 46,
@@ -1619,8 +1474,7 @@
                         "Open windows while underway",
                         "Run engine only when necessary",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 47,
@@ -1630,8 +1484,7 @@
                         "Sailboats over power-driven vessels",
                         "Fishing vessels over recreational boats",
                         "Large commercial vessels over all others"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 48,
@@ -1641,8 +1494,7 @@
                         "Always keep the skier in direct line of sight",
                         "Communicate signals",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 49,
@@ -1652,8 +1504,7 @@
                         "Adjust for comfort but keep it on at all times when underway",
                         "Only wear it when near shore",
                         "Use a non-approved PFD"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 50,
@@ -1663,8 +1514,7 @@
                         "Use red flares or flashing red lights",
                         "Use green flares",
                         "Use horn blasts only"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 }
             ]
         },
@@ -1680,8 +1530,7 @@
                         "Green",
                         "White",
                         "Yellow"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 2,
@@ -1691,8 +1540,7 @@
                         "15 meters",
                         "30 meters",
                         "100 meters"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 3,
@@ -1702,8 +1550,7 @@
                         "Two short blasts",
                         "Three short blasts",
                         "No horn"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 4,
@@ -1713,8 +1560,7 @@
                         "Fire",
                         "Weather",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 5,
@@ -1724,8 +1570,7 @@
                         "Underway",
                         "Towing another vessel",
                         "Distress"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 6,
@@ -1735,8 +1580,7 @@
                         "Use code words only",
                         "Shout to be heard",
                         "Use slang"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 7,
@@ -1746,8 +1590,7 @@
                         "Greeting",
                         "Request to pass",
                         "No meaning"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 8,
@@ -1757,8 +1600,7 @@
                         "Only when swimming",
                         "Only when in rough water",
                         "Never"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 9,
@@ -1768,8 +1610,7 @@
                         "Run generators in open air",
                         "Keep exhaust clear of air intakes",
                         "Run engines inside closed cabins"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 10,
@@ -1779,8 +1620,7 @@
                         "Shout loudly",
                         "Use your boat horn continuously",
                         "Nothing"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 11,
@@ -1790,8 +1630,7 @@
                         "Flashing red light",
                         "Only a white light",
                         "No lights"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 12,
@@ -1801,8 +1640,7 @@
                         "Speed up",
                         "Maintain course",
                         "Sound your horn continuously"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 13,
@@ -1812,8 +1650,7 @@
                         "Stay below deck",
                         "Eat heavily before sailing",
                         "Drink alcohol"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 14,
@@ -1823,8 +1660,7 @@
                         "Distress signal",
                         "No wake zone",
                         "Speed limit zone"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 15,
@@ -1834,8 +1670,7 @@
                         "\"I intend to overtake you on your starboard side\"",
                         "\"I am operating astern propulsion\"",
                         "No meaning"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 16,
@@ -1845,8 +1680,7 @@
                         "0.10%",
                         "0.05%",
                         "0.00%"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 17,
@@ -1856,8 +1690,7 @@
                         "Ignore",
                         "Switch channels",
                         "Continue normal operations"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 18,
@@ -1867,8 +1700,7 @@
                         "Required by law everywhere",
                         "Used to track weather",
                         "Used for insurance"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 19,
@@ -1878,8 +1710,7 @@
                         "Monthly",
                         "Yearly",
                         "Never"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 20,
@@ -1889,8 +1720,7 @@
                         "Use water",
                         "Smother with a blanket",
                         "Use ice"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 21,
@@ -1900,8 +1730,7 @@
                         "Vessel is underway",
                         "Vessel is anchored and may be dragging",
                         "Distress"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 22,
@@ -1909,10 +1738,9 @@
                     "options": [
                         "Monthly",
                         "Only in an emergency",
-                        "According to manufacturer’s instructions",
+                        "According to manufacturer\u2019s instructions",
                         "Annually"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 23,
@@ -1922,8 +1750,7 @@
                         "Avoiding collisions",
                         "Knowing weather conditions",
                         "All of the above"
-                    ],
-                    "correctAnswer": 3
+                    ]
                 },
                 {
                     "id": 24,
@@ -1933,8 +1760,7 @@
                         "Reduced speed only",
                         "No danger",
                         "Easier handling"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 25,
@@ -1944,8 +1770,7 @@
                         "Continue to use it",
                         "Repair it temporarily",
                         "Ignore damage"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 26,
@@ -1955,8 +1780,7 @@
                         "Warms the body",
                         "Has no effect",
                         "Improves circulation"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 27,
@@ -1966,8 +1790,7 @@
                         "5 meters",
                         "No distance required",
                         "100 meters"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 28,
@@ -1977,19 +1800,17 @@
                         "Wear protective gear",
                         "Use a propeller guard",
                         "Avoid water sports"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 29,
-                    "question": "What is the maximum speed allowed in a “no wake” zone?",
+                    "question": "What is the maximum speed allowed in a \u201cno wake\u201d zone?",
                     "options": [
                         "No wake speed (minimum speed to maintain steerage)",
                         "10 knots",
                         "20 knots",
                         "5 knots"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 30,
@@ -1999,19 +1820,17 @@
                         "Swim to shore immediately",
                         "Abandon the boat and swim away",
                         "Remove your PFD"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 31,
-                    "question": "What is the definition of a “headway speed”?",
+                    "question": "What is the definition of a \u201cheadway speed\u201d?",
                     "options": [
                         "Minimum speed needed to maintain steering control",
                         "Maximum allowed speed",
                         "Speed when anchored",
                         "Speed when docking"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 32,
@@ -2021,8 +1840,7 @@
                         "One short blast",
                         "Three short blasts",
                         "No signal needed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 33,
@@ -2032,8 +1850,7 @@
                         "Exposure to sun",
                         "Drinking alcohol",
                         "Faulty batteries"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 34,
@@ -2043,8 +1860,7 @@
                         "Increase speed to outrun storm",
                         "Ignore and continue on course",
                         "Anchor immediately"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 35,
@@ -2054,8 +1870,7 @@
                         "Control fishing activities",
                         "Regulate fuel use",
                         "Restrict access to waterways"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 36,
@@ -2065,8 +1880,7 @@
                         "Flares",
                         "Radar",
                         "Life raft"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 37,
@@ -2076,8 +1890,7 @@
                         "Pumps fuel",
                         "Cools engine",
                         "No importance"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 38,
@@ -2087,8 +1900,7 @@
                         "Lie down below deck",
                         "Drink alcohol",
                         "Swim"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 39,
@@ -2098,8 +1910,7 @@
                         "Wait for rescue",
                         "Use your cellphone only",
                         "Do nothing"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 40,
@@ -2109,8 +1920,7 @@
                         "Continue sailing",
                         "Leave scene quickly",
                         "Ignore minor damage"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 41,
@@ -2120,8 +1930,7 @@
                         "Sweating",
                         "Increased energy",
                         "Rapid heartbeat"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 42,
@@ -2131,8 +1940,7 @@
                         "10 meters",
                         "100 meters",
                         "No special distance"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 43,
@@ -2142,8 +1950,7 @@
                         "Use a flashlight only",
                         "Turn off all lights",
                         "Use a whistle"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 44,
@@ -2153,8 +1960,7 @@
                         "Speed up",
                         "Turn off lights",
                         "Ignore"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 45,
@@ -2164,8 +1970,7 @@
                         "To decorate the boat",
                         "To use as seats",
                         "To measure depth"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 46,
@@ -2175,8 +1980,7 @@
                         "Vessel on the port side has right of way",
                         "Faster vessel has right of way",
                         "No rule"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 47,
@@ -2186,8 +1990,7 @@
                         "Type II",
                         "Type III",
                         "Inflatable only"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 48,
@@ -2197,8 +2000,7 @@
                         "To indicate \"I am reversing\"",
                         "To indicate \"Danger\"",
                         "No meaning"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 49,
@@ -2208,8 +2010,7 @@
                         "Jump in immediately without preparation",
                         "Call for help and wait",
                         "Throw a rock to get attention"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 50,
@@ -2219,8 +2020,7 @@
                         "Abandon ship immediately",
                         "Turn off engine",
                         "Signal distress only"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 }
             ]
         },
@@ -2236,8 +2036,7 @@
                         "Port (left) side of channel when returning from sea",
                         "Starboard (right) side of channel when returning from sea",
                         "Danger area"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 2,
@@ -2247,8 +2046,7 @@
                         "To indicate you intend to overtake on your starboard side",
                         "To signal danger",
                         "To greet another vessel"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 3,
@@ -2258,8 +2056,7 @@
                         "To determine boat heading",
                         "To communicate with other vessels",
                         "To detect underwater obstacles"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 4,
@@ -2269,8 +2066,7 @@
                         "Must wear a PFD at all times when underway",
                         "PFDs are optional",
                         "Only needed when swimming"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 5,
@@ -2280,8 +2076,7 @@
                         "15 meters",
                         "30 meters",
                         "50 meters"
-                    ],
-                    "correctAnswer": 2
+                    ]
                 },
                 {
                     "id": 6,
@@ -2291,8 +2086,7 @@
                         "Maintain a proper lookout and reduce speed",
                         "Turn off navigation lights",
                         "Sound continuous horn blasts"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 7,
@@ -2302,8 +2096,7 @@
                         "Warning signal to alert other vessels",
                         "I am stopped and anchored",
                         "I am reversing"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 8,
@@ -2313,8 +2106,7 @@
                         "Pass the buoy on your starboard side",
                         "Stop and anchor",
                         "Ignore the buoy"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 9,
@@ -2324,8 +2116,7 @@
                         "Maintain course and speed",
                         "Turn to port to pass starboard-to-starboard",
                         "Stop immediately"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 10,
@@ -2335,8 +2126,7 @@
                         "A red and white flag",
                         "Continuous sounding of horn",
                         "A flashing white light"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 11,
@@ -2346,8 +2136,7 @@
                         "Maintain a proper lookout and follow navigation rules",
                         "Speed up to pass first",
                         "Ignore other vessels"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 12,
@@ -2357,19 +2146,17 @@
                         "To navigate",
                         "To communicate with other vessels",
                         "To measure speed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 13,
-                    "question": "What is the maximum speed you should travel in a “no wake” zone?",
+                    "question": "What is the maximum speed you should travel in a \u201cno wake\u201d zone?",
                     "options": [
                         "Minimum speed needed to maintain steerage",
                         "10 knots",
                         "5 knots",
                         "Full speed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 14,
@@ -2379,8 +2166,7 @@
                         "Danger or obstruction to navigation",
                         "Channel to starboard",
                         "Channel to port"
-                    ],
-                    "correctAnswer": 1
+                    ]
                 },
                 {
                     "id": 15,
@@ -2390,8 +2176,7 @@
                         "Leave it loose",
                         "Anchor it in deep water",
                         "Store it on shore without tying"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 16,
@@ -2401,8 +2186,7 @@
                         "Only at night",
                         "Only in fog",
                         "Only when underway"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 17,
@@ -2412,8 +2196,7 @@
                         "Run the engine inside enclosed cabins",
                         "Close all windows and hatches",
                         "Use heaters in enclosed spaces"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 18,
@@ -2423,19 +2206,17 @@
                         "Abandon the boat immediately",
                         "Turn off the engine and wait",
                         "Jump into the water"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 19,
                     "question": "What is the proper way to pass another vessel when overtaking?",
                     "options": [
-                        "Pass on the vessel’s starboard side",
-                        "Pass on the vessel’s port side",
+                        "Pass on the vessel\u2019s starboard side",
+                        "Pass on the vessel\u2019s port side",
                         "Pass without signaling",
                         "Stop and wait"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 20,
@@ -2445,8 +2226,7 @@
                         "Sailboats must give way to power-driven vessels",
                         "No right of way rules apply",
                         "The larger vessel always has right of way"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 21,
@@ -2456,8 +2236,7 @@
                         "Eat a heavy meal before boating",
                         "Stay below deck",
                         "Drink alcohol"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 22,
@@ -2467,8 +2246,7 @@
                         "One per adult only",
                         "Two per boat",
                         "No requirement"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 23,
@@ -2478,8 +2256,7 @@
                         "Use only one hand on the tow rope",
                         "Tow the skier in front of the boat",
                         "Keep the skier behind the boat at all times"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 24,
@@ -2489,8 +2266,7 @@
                         "Continue on your way",
                         "Report only if authorities ask",
                         "Ignore it"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 25,
@@ -2500,19 +2276,17 @@
                         "Improves reaction time",
                         "Has no effect",
                         "Is recommended to calm nerves"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 26,
-                    "question": "What does the term “astern propulsion” mean?",
+                    "question": "What does the term \u201castern propulsion\u201d mean?",
                     "options": [
                         "Moving backward using engine power",
                         "Moving forward quickly",
                         "Using sails only",
                         "Turning the boat"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 27,
@@ -2522,8 +2296,7 @@
                         "Jump in from the dock",
                         "Climb over the bow",
                         "Enter while boat is moving"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 28,
@@ -2533,8 +2306,7 @@
                         "Swim vigorously to shore",
                         "Remove your PFD",
                         "Remove clothing"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 29,
@@ -2544,8 +2316,7 @@
                         "To track speed",
                         "To record fishing locations",
                         "To decorate the boat"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 30,
@@ -2555,8 +2326,7 @@
                         "Cooking meals",
                         "Cleaning the boat",
                         "Fishing"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 31,
@@ -2566,8 +2336,7 @@
                         "Indication of diver down",
                         "Warning of mechanical problems",
                         "Signal of distress"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 32,
@@ -2577,8 +2346,7 @@
                         "Immediately turn off the engine and leave the person",
                         "Ignore and continue",
                         "Jump in without preparation"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 33,
@@ -2588,8 +2356,7 @@
                         "Fuel while engine is running",
                         "Smoke near fuel tank",
                         "Fuel at full speed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 34,
@@ -2599,8 +2366,7 @@
                         "Greeting",
                         "Request to pass",
                         "No meaning"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 35,
@@ -2610,8 +2376,7 @@
                         "No special preparation needed",
                         "Only bring food",
                         "Avoid wearing PFDs"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 36,
@@ -2621,8 +2386,7 @@
                         "Speed up",
                         "Turn off engines immediately",
                         "Jump into the water"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 37,
@@ -2632,8 +2396,7 @@
                         "Port side of the channel when returning from sea",
                         "Danger area",
                         "No meaning"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 38,
@@ -2643,8 +2406,7 @@
                         "Pump fuel",
                         "Circulate air",
                         "Inflate the boat"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 39,
@@ -2654,8 +2416,7 @@
                         "At the bow without holding anything",
                         "Standing on the gunwale",
                         "Sitting on the edge"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 40,
@@ -2665,8 +2426,7 @@
                         "Continue moving",
                         "Leave the scene",
                         "Ignore minor damage"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 41,
@@ -2676,8 +2436,7 @@
                         "Operate without a PFD",
                         "Tow multiple passengers at once",
                         "Speed through no-wake zones"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 42,
@@ -2687,8 +2446,7 @@
                         "Increase speed to pass quickly",
                         "Maintain normal speed",
                         "Avoid the channel"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 43,
@@ -2698,8 +2456,7 @@
                         "Abandon boat",
                         "Turn off all lights",
                         "Increase speed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 44,
@@ -2709,8 +2466,7 @@
                         "Use green flares",
                         "Turn off all lights",
                         "No signal needed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 45,
@@ -2720,8 +2476,7 @@
                         "Vessel at anchor",
                         "Vessel underway",
                         "Distress"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 46,
@@ -2731,8 +2486,7 @@
                         "Swim near propeller for fun",
                         "Wear loose clothing near propeller",
                         "Use the engine at full speed"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 47,
@@ -2742,8 +2496,7 @@
                         "Only if asked",
                         "Never",
                         "Always, even if nothing happened"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 48,
@@ -2753,8 +2506,7 @@
                         "Panic",
                         "Throw water regardless of fire type",
                         "Abandon the boat"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 49,
@@ -2764,8 +2516,7 @@
                         "Distress signal",
                         "Quarantine flag",
                         "No wake zone"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 },
                 {
                     "id": 50,
@@ -2775,8 +2526,7 @@
                         "Speed through the traffic",
                         "Ignore other vessels",
                         "Use only your horn"
-                    ],
-                    "correctAnswer": 0
+                    ]
                 }
             ]
         }
