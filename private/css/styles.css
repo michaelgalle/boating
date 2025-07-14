@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00d9ff 0%, #ffba54 100%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -15,13 +15,13 @@ body {
 }
 
 .quiz-container {
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(211, 255, 249, 0.95);
     backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 40px;
     max-width: 800px;
     width: 100%;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 20px 40px rgba(22, 73, 102, 0.1);
     transition: all 0.3s ease;
 }
 
@@ -32,9 +32,9 @@ body {
 
 .quiz-title {
     font-size: 2.5em;
-    color: #333;
+    color: #27466e;
     margin-bottom: 10px;
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: linear-gradient(45deg, hsl(39, 100%, 75%), #da5000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -42,7 +42,7 @@ body {
 
 .score-display {
     font-size: 1.2em;
-    color: #666;
+    color: #c25700;
     margin-bottom: 20px;
 }
 
@@ -52,14 +52,14 @@ body {
 
 .question-number {
     font-size: 1.1em;
-    color: #667eea;
+    color: #c98900;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .question-text {
     font-size: 1.3em;
-    color: #333;
+    color: #17305f;
     margin-bottom: 20px;
     line-height: 1.4;
 }
@@ -71,8 +71,8 @@ body {
 }
 
 .option {
-    background: #f8f9fa;
-    border: 2px solid #e9ecef;
+    background: #a8fcff;
+    border: 2px solid #0058b1;
     border-radius: 12px;
     padding: 15px 20px;
     cursor: pointer;
@@ -84,15 +84,15 @@ body {
 }
 
 .option:hover {
-    background: #e9ecef;
-    border-color: #667eea;
+    background: #a4fffa;
+    border-color: #c57000;
     transform: translateY(-2px);
 }
 
 .option.selected {
-    background: linear-gradient(45deg, #667eea, #764ba2);
-    color: white;
-    border-color: #667eea;
+    background: linear-gradient(45deg, #60cdff, #00a2ff);
+    color: rgb(255, 225, 144);
+    border-color: #003669;
 }
 
 .option.correct {
@@ -102,7 +102,7 @@ body {
 }
 
 .option.incorrect {
-    background: linear-gradient(45deg, #dc3545, #e83e8c);
+    background: linear-gradient(45deg, #dc3545, #810000);
     color: white;
     border-color: #dc3545;
 }
@@ -110,7 +110,7 @@ body {
 .option input[type="radio"] {
     width: 20px;
     height: 20px;
-    accent-color: #667eea;
+    accent-color: #0079b1;
 }
 
 .navigation {
@@ -121,7 +121,7 @@ body {
 }
 
 .btn {
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: linear-gradient(45deg, #c26700, #ffcb8f);
     color: white;
     border: none;
     padding: 12px 30px;
@@ -134,7 +134,7 @@ body {
 
 .btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 10px 20px rgb(0, 126, 165);
 }
 
 .btn:disabled {
@@ -146,7 +146,7 @@ body {
 .progress-bar {
     width: 100%;
     height: 8px;
-    background: #e9ecef;
+    background: #5efff2;
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 20px;
@@ -154,14 +154,14 @@ body {
 
 .progress-fill {
     height: 100%;
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: linear-gradient(45deg, #a54a00, #ffca7a);
     transition: width 0.3s ease;
 }
 
 .results {
     text-align: center;
     padding: 40px;
-    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    background: linear-gradient(135deg, #77faff, #004183);
     border-radius: 15px;
     margin-top: 30px;
 }
@@ -170,7 +170,7 @@ body {
     font-size: 3em;
     font-weight: bold;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: linear-gradient(45deg, #5ef4ff, #00ffd5);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -180,7 +180,7 @@ body {
     text-align: center;
     padding: 40px;
     font-size: 1.2em;
-    color: #667eea;
+    color: #7bc4ff;
 }
 
 .hidden {
