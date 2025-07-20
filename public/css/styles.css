@@ -1,6 +1,7 @@
 .quiz-question {
     margin-bottom: 1.5rem;
-    background: #ccd7de;
+    /*background: #ccd7de; */
+    background: linear-gradient(135deg, #edc68c 0%, #d1aa70 60%);
     border-radius: 0.4rem;
     padding: 1rem 1.2rem;
     box-shadow: 0 1px 4px rgba(25, 118, 210, 0.07);
@@ -10,97 +11,10 @@
     display: inline-block;
     margin-top: 0.5rem;
     color: #388e3c;
-    background: #e8f5e9;
+    background: #e8f5e9; 
     padding: 0.2rem 0.7rem;
     border-radius: 0.3rem;
     font-size: 1rem;
 }
-
-
-/* OLD CSS TO BE DELETED */
-/*
-h1 {
-    color: #333;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 50px;
-    letter-spacing: 1px;
-    font-weight: 700;
-    text-shadow: 0 2px 8px #f8f9fa;
-}
-
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    font-family: 'Segoe UI', Arial, sans-serif;
-    background: #f5f7fa;
-}
-
-.container-fluid, .row {
-    height: 100vh;
-    min-height: 100vh;
-    background: #f5f7fa;
-}
-
-.sidebar {
-    height: 100vh;
-    overflow-y: auto;
-    background: #f8f9fa;
-    border-right: 1px solid #dee2e6;
-    box-shadow: 2px 0 8px rgba(0,0,0,0.03);
-    transition: width 0.2s;
-}
-
-.sidebar .list-group-item {
-    border: none;
-    border-radius: 0;
-    font-weight: 500;
-    color: #333;
-    background: transparent;
-    transition: background 0.2s, color 0.2s;
-}
-
-.sidebar .list-group-item:hover, .sidebar .list-group-item.active {
-    background: #e3f2fd;
-    color: #1976d2;
-}
-
-.main-content {
-    overflow-y: auto;
-    padding: 2rem;
-    background: #fff;
-    border-radius: 0 0.5rem 0.5rem 0;
-    box-shadow: 0 2px 16px rgba(0,0,0,0.04);
-}
-
-section {
-    margin-bottom: 2.5rem;
-    padding: 2rem 1.5rem;
-    background: #f9fbfd;
-    border-radius: 0.5rem;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.03);
-}
-
-h2, h3, h4 {
-    color: #1976d2;
-    margin-top: 1.5rem;
-    margin-bottom: 1rem;
-    font-weight: 600;
-}
-
-p, ul, ol {
-    line-height: 1.7;
-    font-size: 1.08rem;
-    color: #222;
-}
-
-ol, ul {
-    margin-bottom: 1.2rem;
-}
-
-*/
-
 
 

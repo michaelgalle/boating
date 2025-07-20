@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #00d9ff 0%, #ffba54 100%);
+    background: linear-gradient(135deg, #edc68c 0%, #d1aa70 60%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -121,14 +121,14 @@ body {
 }
 
 .btn {
-    background: linear-gradient(45deg, #c26700, #ffcb8f);
+    background: linear-gradient(135deg, #c26700 0%, #ffcb8f 100%);
     color: white;
     border: none;
     padding: 12px 30px;
     border-radius: 25px;
     font-size: 1.1em;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.9s ease;
     font-weight: bold;
 }
 
