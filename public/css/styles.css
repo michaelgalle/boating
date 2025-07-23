@@ -1,7 +1,7 @@
 .quiz-question {
     margin-bottom: 1.5rem;
     /*background: #ccd7de; */
-    background: linear-gradient(135deg, #edc68c 0%, #d1aa70 60%);
+    background: linear-gradient(135deg, #edc68c 0%, #e7c591 60%);
     border-radius: 0.4rem;
     padding: 1rem 1.2rem;
     box-shadow: 0 1px 4px rgba(25, 118, 210, 0.07);

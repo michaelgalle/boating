@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #edc68c 0%, #d1aa70 60%);
+    background: linear-gradient(135deg, #314f55 0%, #c7a97c 100%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -32,9 +32,9 @@ body {
 
 .quiz-title {
     font-size: 2.5em;
-    color: #27466e;
+    color: #142f3f;
     margin-bottom: 10px;
-    background: linear-gradient(45deg, hsl(39, 100%, 75%), #da5000);
+    background: linear-gradient(45deg, hsl(39, 100%, 75%), #7e421f);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -42,7 +42,7 @@ body {
 
 .score-display {
     font-size: 1.2em;
-    color: #c25700;
+    color: #92501a;
     margin-bottom: 20px;
 }
 
@@ -71,8 +71,8 @@ body {
 }
 
 .option {
-    background: #a8fcff;
-    border: 2px solid #0058b1;
+    background: #cbeef0;
+    border: 2px solid #14374e;
     border-radius: 12px;
     padding: 15px 20px;
     cursor: pointer;
@@ -84,13 +84,13 @@ body {
 }
 
 .option:hover {
-    background: #a4fffa;
-    border-color: #c57000;
+    background: #7db3b0;
+    border-color: #c26e00;
     transform: translateY(-2px);
 }
 
 .option.selected {
-    background: linear-gradient(45deg, #60cdff, #00a2ff);
+    background: linear-gradient(45deg, #bde9fd, #679fb9);
     color: rgb(255, 225, 144);
     border-color: #003669;
 }
@@ -121,14 +121,14 @@ body {
 }
 
 .btn {
-    background: linear-gradient(135deg, #c26700 0%, #ffcb8f 100%);
+    background: linear-gradient(45deg, #c26700, #ffcb8f);
     color: white;
     border: none;
     padding: 12px 30px;
     border-radius: 25px;
     font-size: 1.1em;
     cursor: pointer;
-    transition: all 0.9s ease;
+    transition: all 0.3s ease;
     font-weight: bold;
 }
 
@@ -170,7 +170,7 @@ body {
     font-size: 3em;
     font-weight: bold;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, #5ef4ff, #00ffd5);
+    background: linear-gradient(45deg, #90cbcf, #8ec0b8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -180,7 +180,7 @@ body {
     text-align: center;
     padding: 40px;
     font-size: 1.2em;
-    color: #7bc4ff;
+    color: #93b2cc;
 }
 
 .hidden {

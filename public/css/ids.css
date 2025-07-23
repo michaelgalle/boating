@@ -157,8 +157,8 @@
     margin-left: 0px;                   /* Menu is not showing so take full width of page */    
     background-color: #ffffff;
     z-index: 9;
-    padding-top: 0px;
-    margin-top: 0px;
+    padding-top: 20px;
+    margin-top: 20px;
     overflow-x: hidden;
 }
 
